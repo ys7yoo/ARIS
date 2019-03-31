@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 [1.6.0_65-b14-462]"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-parser-full-2013-06-20/stanford-parser-full-2013-06-20/stanford-parser-3.2.0-models.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-parser-full-2013-06-20/stanford-parser-full-2013-06-20/ejml-0.19-nogui.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-parser-full-2013-06-20/stanford-parser-full-2013-06-20/stanford-parser-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-parser-full-2013-06-20/stanford-parser-full-2013-06-20/stanford-parser-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-parser-full-2013-06-20/stanford-parser-full-2013-06-20/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/stanford-corenlp-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/stanford-corenlp-3.2.0-models.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/ejml-0.19-nogui.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/joda-time.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/jollyday.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/stanford-corenlp-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/xom.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/stanford-corenlp-full-2013-06-20/stanford-corenlp-full-2013-06-20/stanford-corenlp-3.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/apache pdfbox/pdfbox-app-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/wlsvm/WLSVM/lib/wlsvm.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/libsvm-3-1.17/java/libsvm.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jwnl14-rc2/jwnl.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jmrc/jmrc.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jars/json-io-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jars/la4j-0.4.9/bin/la4j-0.4.9.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jars/weka-stable-3.6.10.jar"/>
+	<classpathentry kind="lib" path="/Users/hosseini/Desktop/D/research_uw/jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

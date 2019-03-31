@@ -1,0 +1,16900 @@
+have have 
+1.44269504089
+
+
+have be 
+0.252374383293
+
+
+have buy 
+0.24889035448
+
+
+have give 
+0.264257369936
+
+
+have pick 
+0.138581089797
+
+
+have grow 
+0.326345520689
+
+
+have spend 
+0.0
+
+
+have find 
+0.203459540694
+
+
+have pay 
+0.186496972596
+
+
+have plant 
+0.212669925459
+
+
+have go 
+0.177797443476
+
+
+have play 
+0.15313806894
+
+
+have get 
+0.37892318169
+
+
+have cut 
+0.212988547271
+
+
+have work 
+0.139532022072
+
+
+have sell 
+0.204664834317
+
+
+have purchase 
+0.24889035448
+
+
+have place 
+0.0986048322994
+
+
+have miss 
+0.0
+
+
+have make 
+0.44270417207
+
+
+have catch 
+0.148248354481
+
+
+have hold 
+0.352956123865
+
+
+have serve 
+0.143102513316
+
+
+have earn 
+0.246896504162
+
+
+have borrow 
+0.237924590129
+
+
+have save 
+0.542864836845
+
+
+have receive 
+0.360673760222
+
+
+have leave 
+0.282346351324
+
+
+have attend 
+0.0
+
+
+have see 
+0.293459892055
+
+
+have stack 
+0.193256567806
+
+
+have eat 
+0.386588418668
+
+
+have cost 
+0.209427981969
+
+
+have win 
+0.304089664225
+
+
+have lose 
+0.0906003108096
+
+
+have do 
+0.189796434039
+
+
+have rent 
+0.197920868284
+
+
+have need 
+0.14656371498
+
+
+have take 
+0.203862177996
+
+
+have stand 
+0.144208683506
+
+
+have end 
+0.253106899896
+
+
+have put 
+0.190565114673
+
+
+have call 
+0.152870436153
+
+
+have break 
+0.241910273657
+
+
+have shine 
+0.107999052989
+
+
+have store 
+1.04343792992
+
+
+have begin 
+0.131653303119
+
+
+have divide 
+0.2966639541
+
+
+have come 
+0.15240749404
+
+
+have fill 
+0.275603322682
+
+
+have clean 
+0.24132794356
+
+
+have add 
+0.32932553124
+
+
+have defeat 
+0.0
+
+
+have crack 
+0.302013516806
+
+
+have decide 
+0.211021960816
+
+
+have split 
+0.2966639541
+
+
+have start 
+0.118962367333
+
+
+have finish 
+0.2914083077
+
+
+have gather 
+0.195568435226
+
+
+have want 
+0.14656371498
+
+
+have desire 
+0.0
+
+
+have wish 
+0.0
+
+
+have ask 
+0.199000059829
+
+
+have contain 
+0.114092397157
+
+
+have include 
+0.160313702319
+
+
+be have 
+0.145061007898
+
+
+be be 
+1.44269504089
+
+
+be buy 
+0.182293603181
+
+
+be give 
+0.190699057484
+
+
+be pick 
+0.0
+
+
+be grow 
+0.0
+
+
+be spend 
+0.0
+
+
+be find 
+0.0
+
+
+be pay 
+0.205035144145
+
+
+be plant 
+0.0
+
+
+be go 
+0.186120460918
+
+
+be play 
+0.156302476412
+
+
+be get 
+0.127391557664
+
+
+be cut 
+0.10672656358
+
+
+be work 
+0.0947763775318
+
+
+be sell 
+0.292480728666
+
+
+be purchase 
+0.0
+
+
+be place 
+0.133469564613
+
+
+be miss 
+0.0
+
+
+be make 
+0.150189612322
+
+
+be catch 
+0.0
+
+
+be hold 
+0.12342876243
+
+
+be serve 
+0.325086659117
+
+
+be earn 
+0.0
+
+
+be borrow 
+0.0
+
+
+be save 
+0.0
+
+
+be receive 
+0.0
+
+
+be leave 
+0.185129263126
+
+
+be attend 
+0.444077099638
+
+
+be see 
+0.0889638993779
+
+
+be stack 
+0.0
+
+
+be eat 
+0.0
+
+
+be cost 
+1.09561722475
+
+
+be win 
+0.0
+
+
+be lose 
+0.0
+
+
+be do 
+0.191306276521
+
+
+be rent 
+0.0
+
+
+be need 
+0.324278473219
+
+
+be take 
+0.377180034695
+
+
+be stand 
+0.668314054537
+
+
+be end 
+0.21055918997
+
+
+be put 
+0.214321020954
+
+
+be call 
+0.171527796902
+
+
+be break 
+0.125407866531
+
+
+be shine 
+0.173961462771
+
+
+be store 
+0.0
+
+
+be begin 
+0.149629334848
+
+
+be divide 
+0.0
+
+
+be come 
+0.189540730671
+
+
+be fill 
+0.241594809904
+
+
+be clean 
+0.125328745713
+
+
+be add 
+0.162975759127
+
+
+be defeat 
+0.0
+
+
+be crack 
+0.0963774474691
+
+
+be decide 
+0.0
+
+
+be split 
+0.0
+
+
+be start 
+0.0997856873372
+
+
+be finish 
+0.143655363487
+
+
+be gather 
+0.202644942301
+
+
+be want 
+0.324278473219
+
+
+be desire 
+0.0
+
+
+be wish 
+0.0
+
+
+be ask 
+0.21514418756
+
+
+be contain 
+0.163042645915
+
+
+be include 
+0.129155205832
+
+
+buy have 
+0.127575541112
+
+
+buy be 
+0.302783120962
+
+
+buy buy 
+1.44269504089
+
+
+buy give 
+0.280469154034
+
+
+buy pick 
+0.147688808819
+
+
+buy grow 
+0.0
+
+
+buy spend 
+0.403509419485
+
+
+buy find 
+0.250544295197
+
+
+buy pay 
+0.691567254019
+
+
+buy plant 
+0.147744849136
+
+
+buy go 
+0.083117277433
+
+
+buy play 
+0.0614163214296
+
+
+buy get 
+1.0890168905
+
+
+buy cut 
+0.0524442038537
+
+
+buy work 
+0.0554445364875
+
+
+buy sell 
+0.403500246036
+
+
+buy purchase 
+1.44269504089
+
+
+buy place 
+0.184503302842
+
+
+buy miss 
+0.0
+
+
+buy make 
+0.130410293294
+
+
+buy catch 
+0.136305223345
+
+
+buy hold 
+0.132803964639
+
+
+buy serve 
+0.139679606147
+
+
+buy earn 
+0.86829931228
+
+
+buy borrow 
+0.630996797253
+
+
+buy save 
+0.132203198545
+
+
+buy receive 
+0.954667710397
+
+
+buy leave 
+0.131590155677
+
+
+buy attend 
+0.0
+
+
+buy see 
+0.159434202392
+
+
+buy stack 
+0.0
+
+
+buy eat 
+0.199161007959
+
+
+buy cost 
+0.267247148642
+
+
+buy win 
+0.317112270444
+
+
+buy lose 
+0.0
+
+
+buy do 
+0.0
+
+
+buy rent 
+0.25100931098
+
+
+buy need 
+0.155800245311
+
+
+buy take 
+0.140300712304
+
+
+buy stand 
+0.203707281973
+
+
+buy end 
+0.116816684209
+
+
+buy put 
+0.210624567657
+
+
+buy call 
+0.0751448519242
+
+
+buy break 
+0.0632835505235
+
+
+buy shine 
+0.103748694908
+
+
+buy store 
+0.0
+
+
+buy begin 
+0.0781422627739
+
+
+buy divide 
+0.162254015529
+
+
+buy come 
+0.070472348223
+
+
+buy fill 
+0.14378876967
+
+
+buy clean 
+0.078327482063
+
+
+buy add 
+0.121649848895
+
+
+buy defeat 
+0.196310384056
+
+
+buy crack 
+0.0
+
+
+buy decide 
+0.0
+
+
+buy split 
+0.0
+
+
+buy start 
+0.0590047539631
+
+
+buy finish 
+0.0
+
+
+buy gather 
+0.112081532052
+
+
+buy want 
+0.155800245311
+
+
+buy desire 
+0.0
+
+
+buy wish 
+0.0
+
+
+buy ask 
+0.0
+
+
+buy contain 
+0.0919178517506
+
+
+buy include 
+0.206972603732
+
+
+give have 
+0.235377455552
+
+
+give be 
+0.211644503732
+
+
+give buy 
+0.307448053945
+
+
+give give 
+1.44269504089
+
+
+give pick 
+0.210161838577
+
+
+give grow 
+0.238811248296
+
+
+give spend 
+0.391172040879
+
+
+give find 
+0.131950342288
+
+
+give pay 
+0.592574187647
+
+
+give plant 
+0.222812557964
+
+
+give go 
+0.181132962585
+
+
+give play 
+0.222396941663
+
+
+give get 
+0.153603055611
+
+
+give cut 
+0.165950524175
+
+
+give work 
+0.173672939526
+
+
+give sell 
+0.484146674633
+
+
+give purchase 
+0.0
+
+
+give place 
+0.162684154314
+
+
+give miss 
+0.0
+
+
+give make 
+0.231358107472
+
+
+give catch 
+0.0924155999785
+
+
+give hold 
+0.369269373069
+
+
+give serve 
+0.199972975482
+
+
+give earn 
+0.0
+
+
+give borrow 
+0.0
+
+
+give save 
+0.136691313109
+
+
+give receive 
+0.124159773835
+
+
+give leave 
+0.259198723863
+
+
+give attend 
+0.0
+
+
+give see 
+0.203391400452
+
+
+give stack 
+0.0937987050796
+
+
+give eat 
+0.198069230058
+
+
+give cost 
+0.0
+
+
+give win 
+0.0
+
+
+give lose 
+0.0936216236703
+
+
+give do 
+0.181007555936
+
+
+give rent 
+0.331126606473
+
+
+give need 
+0.0
+
+
+give take 
+0.194216880774
+
+
+give stand 
+0.183105790875
+
+
+give end 
+0.0
+
+
+give put 
+0.214953372111
+
+
+give call 
+0.217299653097
+
+
+give break 
+0.14452264314
+
+
+give shine 
+0.136147192075
+
+
+give store 
+0.0
+
+
+give begin 
+0.148445526767
+
+
+give divide 
+0.195726343274
+
+
+give come 
+0.174135015444
+
+
+give fill 
+0.208601781733
+
+
+give clean 
+0.0922465549631
+
+
+give add 
+0.277070637739
+
+
+give defeat 
+0.155026168267
+
+
+give crack 
+0.104616774472
+
+
+give decide 
+0.147711664344
+
+
+give split 
+0.167534046676
+
+
+give start 
+0.137120623853
+
+
+give finish 
+0.137706105417
+
+
+give gather 
+0.193321274041
+
+
+give want 
+0.0985828815829
+
+
+give desire 
+0.093814478985
+
+
+give wish 
+0.203500316242
+
+
+give ask 
+0.216693297996
+
+
+give contain 
+0.0
+
+
+give include 
+0.186665710063
+
+
+pick have 
+0.179370509998
+
+
+pick be 
+0.0
+
+
+pick buy 
+0.249009401727
+
+
+pick give 
+0.214154301713
+
+
+pick pick 
+1.44269504089
+
+
+pick grow 
+0.0
+
+
+pick spend 
+0.294417261111
+
+
+pick find 
+0.0791102875886
+
+
+pick pay 
+0.350112361919
+
+
+pick plant 
+0.211781500475
+
+
+pick go 
+0.0994990294046
+
+
+pick play 
+0.1290785676
+
+
+pick get 
+0.12722018738
+
+
+pick cut 
+0.166675942762
+
+
+pick work 
+0.0946925620117
+
+
+pick sell 
+0.203998078259
+
+
+pick purchase 
+0.0
+
+
+pick place 
+0.188847751948
+
+
+pick miss 
+0.0
+
+
+pick make 
+0.189548506888
+
+
+pick catch 
+0.198607259788
+
+
+pick hold 
+0.0921228954112
+
+
+pick serve 
+0.2014591149
+
+
+pick earn 
+0.0
+
+
+pick borrow 
+0.0
+
+
+pick save 
+0.131396648084
+
+
+pick receive 
+0.104425279457
+
+
+pick leave 
+0.127922437931
+
+
+pick attend 
+0.0
+
+
+pick see 
+0.116623833643
+
+
+pick stack 
+0.121798418127
+
+
+pick eat 
+0.365454071442
+
+
+pick cost 
+0.0
+
+
+pick win 
+0.0
+
+
+pick lose 
+0.102655660172
+
+
+pick do 
+0.221179419717
+
+
+pick rent 
+0.32870576793
+
+
+pick need 
+0.0
+
+
+pick take 
+0.160274364979
+
+
+pick stand 
+0.0727056267515
+
+
+pick end 
+0.0
+
+
+pick put 
+0.200804875668
+
+
+pick call 
+0.102264945563
+
+
+pick break 
+0.0959801756662
+
+
+pick shine 
+0.0
+
+
+pick store 
+0.0
+
+
+pick begin 
+0.0
+
+
+pick divide 
+0.103420568729
+
+
+pick come 
+0.0
+
+
+pick fill 
+0.208436289809
+
+
+pick clean 
+0.434294481903
+
+
+pick add 
+0.262869544346
+
+
+pick defeat 
+0.0
+
+
+pick crack 
+0.153136722832
+
+
+pick decide 
+1.00423964988
+
+
+pick split 
+0.117533078549
+
+
+pick start 
+0.0979386724642
+
+
+pick finish 
+0.232718568533
+
+
+pick gather 
+0.81230171273
+
+
+pick want 
+0.107439803206
+
+
+pick desire 
+0.110990818103
+
+
+pick wish 
+0.187667687325
+
+
+pick ask 
+0.160083721415
+
+
+pick contain 
+0.0
+
+
+pick include 
+0.0
+
+
+grow have 
+0.221605630552
+
+
+grow be 
+0.0
+
+
+grow buy 
+0.0
+
+
+grow give 
+0.123280387136
+
+
+grow pick 
+0.0
+
+
+grow grow 
+1.44269504089
+
+
+grow spend 
+0.0
+
+
+grow find 
+0.176127326337
+
+
+grow pay 
+0.0
+
+
+grow plant 
+0.0
+
+
+grow go 
+0.1609975342
+
+
+grow play 
+0.0483750692045
+
+
+grow get 
+0.259712720337
+
+
+grow cut 
+0.17894035404
+
+
+grow work 
+0.111737017449
+
+
+grow sell 
+0.0
+
+
+grow purchase 
+0.0
+
+
+grow place 
+0.0
+
+
+grow miss 
+0.0
+
+
+grow make 
+0.210390537858
+
+
+grow catch 
+0.0962979013162
+
+
+grow hold 
+0.0913067309156
+
+
+grow serve 
+0.0
+
+
+grow earn 
+0.0
+
+
+grow borrow 
+0.0
+
+
+grow save 
+0.0
+
+
+grow receive 
+0.249208697729
+
+
+grow leave 
+0.138462961861
+
+
+grow attend 
+0.0
+
+
+grow see 
+0.180201127019
+
+
+grow stack 
+0.180695338202
+
+
+grow eat 
+0.0867048227019
+
+
+grow cost 
+0.0
+
+
+grow win 
+0.0
+
+
+grow lose 
+0.0828994563336
+
+
+grow do 
+0.153063356705
+
+
+grow rent 
+0.0
+
+
+grow need 
+0.0
+
+
+grow take 
+0.126414103821
+
+
+grow stand 
+0.0
+
+
+grow end 
+0.204743559774
+
+
+grow put 
+0.163631266861
+
+
+grow call 
+0.0683260140934
+
+
+grow break 
+0.235476241808
+
+
+grow shine 
+0.0692278864989
+
+
+grow store 
+0.0
+
+
+grow begin 
+0.0
+
+
+grow divide 
+0.481086404241
+
+
+grow come 
+0.274113868503
+
+
+grow fill 
+0.241229337845
+
+
+grow clean 
+0.216998341883
+
+
+grow add 
+0.731633467312
+
+
+grow defeat 
+0.0
+
+
+grow crack 
+0.488096531967
+
+
+grow decide 
+0.166872932547
+
+
+grow split 
+0.481086404241
+
+
+grow start 
+0.0719961139087
+
+
+grow finish 
+0.251973879064
+
+
+grow gather 
+0.286516546699
+
+
+grow want 
+0.0
+
+
+grow desire 
+0.0
+
+
+grow wish 
+0.0
+
+
+grow ask 
+0.0
+
+
+grow contain 
+0.0
+
+
+grow include 
+0.296198011941
+
+
+spend have 
+0.0
+
+
+spend be 
+0.0
+
+
+spend buy 
+0.403509419485
+
+
+spend give 
+0.341945711144
+
+
+spend pick 
+0.174620453234
+
+
+spend grow 
+0.0
+
+
+spend spend 
+1.44269504089
+
+
+spend find 
+0.0
+
+
+spend pay 
+0.853127613254
+
+
+spend plant 
+0.174386887115
+
+
+spend go 
+0.0
+
+
+spend play 
+0.0
+
+
+spend get 
+0.0
+
+
+spend cut 
+0.0
+
+
+spend work 
+0.0
+
+
+spend sell 
+0.485433134615
+
+
+spend purchase 
+0.0
+
+
+spend place 
+0.185118723511
+
+
+spend miss 
+0.0
+
+
+spend make 
+0.0
+
+
+spend catch 
+0.0
+
+
+spend hold 
+0.0
+
+
+spend serve 
+0.222512180707
+
+
+spend earn 
+0.0
+
+
+spend borrow 
+0.0
+
+
+spend save 
+0.175451060033
+
+
+spend receive 
+0.0
+
+
+spend leave 
+0.158781006999
+
+
+spend attend 
+0.0
+
+
+spend see 
+0.0
+
+
+spend stack 
+0.0
+
+
+spend eat 
+0.2795206864
+
+
+spend cost 
+0.0
+
+
+spend win 
+0.0
+
+
+spend lose 
+0.0
+
+
+spend do 
+0.212464377885
+
+
+spend rent 
+0.299141256592
+
+
+spend need 
+0.0
+
+
+spend take 
+0.0
+
+
+spend stand 
+0.0
+
+
+spend end 
+0.0
+
+
+spend put 
+0.28879408569
+
+
+spend call 
+0.0
+
+
+spend break 
+0.0
+
+
+spend shine 
+0.0
+
+
+spend store 
+0.0
+
+
+spend begin 
+0.0
+
+
+spend divide 
+0.0
+
+
+spend come 
+0.0
+
+
+spend fill 
+0.173144015692
+
+
+spend clean 
+0.0
+
+
+spend add 
+0.0
+
+
+spend defeat 
+0.0
+
+
+spend crack 
+0.0
+
+
+spend decide 
+0.0
+
+
+spend split 
+0.0
+
+
+spend start 
+0.0
+
+
+spend finish 
+0.0
+
+
+spend gather 
+0.0
+
+
+spend want 
+0.0
+
+
+spend desire 
+0.0
+
+
+spend wish 
+0.0
+
+
+spend ask 
+0.0
+
+
+spend contain 
+0.0
+
+
+spend include 
+0.0
+
+
+find have 
+0.269278773679
+
+
+find be 
+0.0
+
+
+find buy 
+0.416145066614
+
+
+find give 
+0.106696568802
+
+
+find pick 
+0.105034869092
+
+
+find grow 
+0.283415178891
+
+
+find spend 
+0.0
+
+
+find find 
+1.44269504089
+
+
+find pay 
+0.175880918198
+
+
+find plant 
+0.13932546515
+
+
+find go 
+0.138103201521
+
+
+find play 
+0.133486821913
+
+
+find get 
+0.512089475765
+
+
+find cut 
+0.0989285746447
+
+
+find work 
+0.0814362517168
+
+
+find sell 
+0.0
+
+
+find purchase 
+0.416145066614
+
+
+find place 
+0.18448735409
+
+
+find miss 
+0.0
+
+
+find make 
+0.195032648949
+
+
+find catch 
+0.352262522648
+
+
+find hold 
+0.141686198279
+
+
+find serve 
+0.131582014303
+
+
+find earn 
+0.413288356246
+
+
+find borrow 
+0.304334966214
+
+
+find save 
+0.0
+
+
+find receive 
+0.452236027649
+
+
+find leave 
+0.100376738827
+
+
+find attend 
+0.196662831704
+
+
+find see 
+0.703811040753
+
+
+find stack 
+0.0
+
+
+find eat 
+0.0
+
+
+find cost 
+0.0
+
+
+find win 
+0.251513881248
+
+
+find lose 
+0.0774462287818
+
+
+find do 
+0.146473573576
+
+
+find rent 
+0.216227753021
+
+
+find need 
+0.0
+
+
+find take 
+0.144721652175
+
+
+find stand 
+0.138082156412
+
+
+find end 
+0.0
+
+
+find put 
+0.125215909524
+
+
+find call 
+0.132767718142
+
+
+find break 
+0.169398478759
+
+
+find shine 
+0.0
+
+
+find store 
+0.0
+
+
+find begin 
+0.0
+
+
+find divide 
+0.185427209947
+
+
+find come 
+0.126604351043
+
+
+find fill 
+0.157331647842
+
+
+find clean 
+0.0
+
+
+find add 
+0.258940801713
+
+
+find defeat 
+0.187543789662
+
+
+find crack 
+0.1821782543
+
+
+find decide 
+0.108177193432
+
+
+find split 
+0.179438531089
+
+
+find start 
+0.107682399618
+
+
+find finish 
+0.0
+
+
+find gather 
+0.258221110798
+
+
+find want 
+0.0
+
+
+find desire 
+0.0
+
+
+find wish 
+0.0
+
+
+find ask 
+0.0
+
+
+find contain 
+0.0
+
+
+find include 
+0.199293437594
+
+
+pay have 
+0.113738565937
+
+
+pay be 
+0.214103864481
+
+
+pay buy 
+0.472068091497
+
+
+pay give 
+0.40449481118
+
+
+pay pick 
+0.184284647471
+
+
+pay grow 
+0.0
+
+
+pay spend 
+0.582350193494
+
+
+pay find 
+0.201902867878
+
+
+pay pay 
+1.44269504089
+
+
+pay plant 
+0.186959687829
+
+
+pay go 
+0.205005237551
+
+
+pay play 
+0.180886989733
+
+
+pay get 
+0.408142381554
+
+
+pay cut 
+0.0996651814524
+
+
+pay work 
+0.0770822789751
+
+
+pay sell 
+0.813773217858
+
+
+pay purchase 
+0.336380972356
+
+
+pay place 
+0.173589846014
+
+
+pay miss 
+0.0
+
+
+pay make 
+0.193818178402
+
+
+pay catch 
+0.121219964333
+
+
+pay hold 
+0.125568769702
+
+
+pay serve 
+0.178616031275
+
+
+pay earn 
+0.559305442543
+
+
+pay borrow 
+0.250139390516
+
+
+pay save 
+0.162602423222
+
+
+pay receive 
+0.363612874844
+
+
+pay leave 
+0.169352178923
+
+
+pay attend 
+0.0
+
+
+pay see 
+0.155217774078
+
+
+pay stack 
+0.0
+
+
+pay eat 
+0.25423525406
+
+
+pay cost 
+0.187639391883
+
+
+pay win 
+0.222954660314
+
+
+pay lose 
+0.0
+
+
+pay do 
+0.314120219711
+
+
+pay rent 
+0.351111231882
+
+
+pay need 
+0.131882462422
+
+
+pay take 
+0.316754089499
+
+
+pay stand 
+0.253245764477
+
+
+pay end 
+0.10900851494
+
+
+pay put 
+0.272984238147
+
+
+pay call 
+0.165363825979
+
+
+pay break 
+0.103270234534
+
+
+pay shine 
+0.096369926337
+
+
+pay store 
+0.0
+
+
+pay begin 
+0.134040723444
+
+
+pay divide 
+0.175688788859
+
+
+pay come 
+0.0724391509391
+
+
+pay fill 
+0.185310468689
+
+
+pay clean 
+0.0780873703645
+
+
+pay add 
+0.136677115982
+
+
+pay defeat 
+0.177679837715
+
+
+pay crack 
+0.0750176810757
+
+
+pay decide 
+0.0
+
+
+pay split 
+0.0
+
+
+pay start 
+0.0665017313289
+
+
+pay finish 
+0.168868223926
+
+
+pay gather 
+0.226663281659
+
+
+pay want 
+0.131882462422
+
+
+pay desire 
+0.0
+
+
+pay wish 
+0.0
+
+
+pay ask 
+0.353411547101
+
+
+pay contain 
+0.0922263041174
+
+
+pay include 
+0.207120223632
+
+
+plant have 
+0.113128562796
+
+
+plant be 
+0.0
+
+
+plant buy 
+0.205361646749
+
+
+plant give 
+0.309703885364
+
+
+plant pick 
+0.184486357981
+
+
+plant grow 
+0.0
+
+
+plant spend 
+0.242393413502
+
+
+plant find 
+0.0938805289139
+
+
+plant pay 
+0.329119053469
+
+
+plant plant 
+1.44269504089
+
+
+plant go 
+0.0
+
+
+plant play 
+0.157322508153
+
+
+plant get 
+0.119536722365
+
+
+plant cut 
+0.637507043987
+
+
+plant work 
+0.0874983818805
+
+
+plant sell 
+0.275597996932
+
+
+plant purchase 
+0.0
+
+
+plant place 
+1.07219129986
+
+
+plant miss 
+0.0
+
+
+plant make 
+0.235527610717
+
+
+plant catch 
+0.179826374573
+
+
+plant hold 
+0.0925656669078
+
+
+plant serve 
+0.244986562238
+
+
+plant earn 
+0.0
+
+
+plant borrow 
+0.0
+
+
+plant save 
+0.111086733031
+
+
+plant receive 
+0.0
+
+
+plant leave 
+0.16628670393
+
+
+plant attend 
+0.0
+
+
+plant see 
+0.141519298857
+
+
+plant stack 
+0.316171124081
+
+
+plant eat 
+0.135893010507
+
+
+plant cost 
+0.0
+
+
+plant win 
+0.0
+
+
+plant lose 
+0.19129265044
+
+
+plant do 
+0.273740297482
+
+
+plant rent 
+0.216407650984
+
+
+plant need 
+0.0
+
+
+plant take 
+0.111833503238
+
+
+plant stand 
+0.121720541442
+
+
+plant end 
+0.0
+
+
+plant put 
+1.07219129986
+
+
+plant call 
+0.158582629133
+
+
+plant break 
+0.0498435433889
+
+
+plant shine 
+0.0
+
+
+plant store 
+0.0
+
+
+plant begin 
+0.0
+
+
+plant divide 
+0.126024538135
+
+
+plant come 
+0.0
+
+
+plant fill 
+0.140822681389
+
+
+plant clean 
+0.223871394422
+
+
+plant add 
+0.0
+
+
+plant defeat 
+0.0
+
+
+plant crack 
+0.0
+
+
+plant decide 
+0.190174058859
+
+
+plant split 
+0.208885536681
+
+
+plant start 
+0.116779252859
+
+
+plant finish 
+0.0
+
+
+plant gather 
+0.194117918806
+
+
+plant want 
+0.168789033757
+
+
+plant desire 
+0.17842352179
+
+
+plant wish 
+0.142322063529
+
+
+plant ask 
+0.296888132673
+
+
+plant contain 
+0.0
+
+
+plant include 
+0.0
+
+
+go have 
+0.20410294708
+
+
+go be 
+0.270241644122
+
+
+go buy 
+0.112444470051
+
+
+go give 
+0.111449713853
+
+
+go pick 
+0.197049303082
+
+
+go grow 
+0.250794518239
+
+
+go spend 
+0.0
+
+
+go find 
+0.115721552888
+
+
+go pay 
+0.205005237551
+
+
+go plant 
+0.0
+
+
+go go 
+1.44269504089
+
+
+go play 
+0.186617880376
+
+
+go get 
+0.480898346963
+
+
+go cut 
+0.234768360077
+
+
+go work 
+0.3001016285
+
+
+go sell 
+0.143521583894
+
+
+go purchase 
+0.0
+
+
+go place 
+0.0898850457531
+
+
+go miss 
+0.0
+
+
+go make 
+0.108607549884
+
+
+go catch 
+0.100919140904
+
+
+go hold 
+0.0653725756699
+
+
+go serve 
+0.260058020622
+
+
+go earn 
+0.0
+
+
+go borrow 
+0.0
+
+
+go save 
+0.0
+
+
+go receive 
+0.212051886278
+
+
+go leave 
+0.290564795782
+
+
+go attend 
+0.242368099311
+
+
+go see 
+0.166429351755
+
+
+go stack 
+0.0
+
+
+go eat 
+0.0
+
+
+go cost 
+0.23165136453
+
+
+go win 
+0.0
+
+
+go lose 
+0.141335387893
+
+
+go do 
+0.307044722755
+
+
+go rent 
+0.0
+
+
+go need 
+0.154132000479
+
+
+go take 
+0.327554289645
+
+
+go stand 
+0.167922333561
+
+
+go end 
+0.35136640765
+
+
+go put 
+0.141191205174
+
+
+go call 
+0.145933459706
+
+
+go break 
+0.200504814265
+
+
+go shine 
+0.165238421474
+
+
+go store 
+0.0
+
+
+go begin 
+0.118200926242
+
+
+go divide 
+0.230241969613
+
+
+go come 
+1.05850530338
+
+
+go fill 
+0.320934909023
+
+
+go clean 
+0.0869116452242
+
+
+go add 
+0.252835739193
+
+
+go defeat 
+0.0
+
+
+go crack 
+0.279414369871
+
+
+go decide 
+0.2442408647
+
+
+go split 
+0.230241969613
+
+
+go start 
+0.216679065336
+
+
+go finish 
+0.299988145579
+
+
+go gather 
+0.213954713194
+
+
+go want 
+0.154132000479
+
+
+go desire 
+0.0
+
+
+go wish 
+0.158312192803
+
+
+go ask 
+0.311670102131
+
+
+go contain 
+0.104595416477
+
+
+go include 
+0.140375278383
+
+
+play have 
+0.103704001468
+
+
+play be 
+0.0907269512585
+
+
+play buy 
+0.0978569447439
+
+
+play give 
+0.119100052287
+
+
+play pick 
+0.119343674469
+
+
+play grow 
+0.0875262921768
+
+
+play spend 
+0.0
+
+
+play find 
+0.11265204697
+
+
+play pay 
+0.180886989733
+
+
+play plant 
+0.209930050492
+
+
+play go 
+0.262142875466
+
+
+play play 
+1.44269504089
+
+
+play get 
+0.112203656679
+
+
+play cut 
+0.156663003012
+
+
+play work 
+0.200111571255
+
+
+play sell 
+0.107787105869
+
+
+play purchase 
+0.0
+
+
+play place 
+0.262784282551
+
+
+play miss 
+0.0
+
+
+play make 
+0.2420036931
+
+
+play catch 
+0.194792015501
+
+
+play hold 
+0.104673631221
+
+
+play serve 
+0.156972635573
+
+
+play earn 
+0.0
+
+
+play borrow 
+0.0
+
+
+play save 
+0.0808007551244
+
+
+play receive 
+0.10479698877
+
+
+play leave 
+0.111182443667
+
+
+play attend 
+0.0
+
+
+play see 
+0.147732083264
+
+
+play stack 
+0.170481888747
+
+
+play eat 
+0.074507175446
+
+
+play cost 
+0.0
+
+
+play win 
+0.0
+
+
+play lose 
+0.155553960056
+
+
+play do 
+0.181250390072
+
+
+play rent 
+0.0974285728725
+
+
+play need 
+0.0
+
+
+play take 
+0.289711184651
+
+
+play stand 
+0.116624809132
+
+
+play end 
+0.115130148879
+
+
+play put 
+0.262784282551
+
+
+play call 
+0.156003241438
+
+
+play break 
+0.096899792113
+
+
+play shine 
+0.0650839076719
+
+
+play store 
+0.0
+
+
+play begin 
+0.105159720013
+
+
+play divide 
+0.117316018027
+
+
+play come 
+0.215033033199
+
+
+play fill 
+0.107420408697
+
+
+play clean 
+0.159978245483
+
+
+play add 
+0.108894469222
+
+
+play defeat 
+0.11855615505
+
+
+play crack 
+0.152762373491
+
+
+play decide 
+0.123175878503
+
+
+play split 
+0.11269221966
+
+
+play start 
+0.164952378803
+
+
+play finish 
+0.156191516136
+
+
+play gather 
+0.187818974042
+
+
+play want 
+0.112515203782
+
+
+play desire 
+0.111828056931
+
+
+play wish 
+0.109183159618
+
+
+play ask 
+0.277215244354
+
+
+play contain 
+0.0
+
+
+play include 
+0.125403008033
+
+
+get have 
+0.360673760222
+
+
+get be 
+0.15537822547
+
+
+get buy 
+1.0890168905
+
+
+get give 
+0.135088698207
+
+
+get pick 
+0.160803852784
+
+
+get grow 
+0.367407328362
+
+
+get spend 
+0.0
+
+
+get find 
+0.308308585338
+
+
+get pay 
+0.23184975601
+
+
+get plant 
+0.221817688867
+
+
+get go 
+0.345976256261
+
+
+get play 
+0.10927072722
+
+
+get get 
+1.44269504089
+
+
+get cut 
+0.24239777432
+
+
+get work 
+0.142421014881
+
+
+get sell 
+0.214855086507
+
+
+get purchase 
+1.0890168905
+
+
+get place 
+0.283272684716
+
+
+get miss 
+0.0
+
+
+get make 
+0.499879446044
+
+
+get catch 
+0.3001016285
+
+
+get hold 
+0.114629062946
+
+
+get serve 
+0.200679117237
+
+
+get earn 
+1.0792558231
+
+
+get borrow 
+0.735466154494
+
+
+get save 
+0.0883856686919
+
+
+get receive 
+1.21599372378
+
+
+get leave 
+0.29986164994
+
+
+get attend 
+0.158223076317
+
+
+get see 
+0.263010677121
+
+
+get stack 
+0.249780490398
+
+
+get eat 
+0.188178081183
+
+
+get cost 
+0.126800032012
+
+
+get win 
+0.380117874871
+
+
+get lose 
+0.175249595453
+
+
+get do 
+0.223792154361
+
+
+get rent 
+0.298997529419
+
+
+get need 
+0.0976615891555
+
+
+get take 
+0.27851752251
+
+
+get stand 
+0.0943020122377
+
+
+get end 
+0.285795673256
+
+
+get put 
+0.283272684716
+
+
+get call 
+0.127307988055
+
+
+get break 
+0.312664492971
+
+
+get shine 
+0.084296607338
+
+
+get store 
+0.0
+
+
+get begin 
+0.281266414063
+
+
+get divide 
+0.337298388841
+
+
+get come 
+0.455119613313
+
+
+get fill 
+0.372463711485
+
+
+get clean 
+0.311911842239
+
+
+get add 
+0.37039766301
+
+
+get defeat 
+0.0
+
+
+get crack 
+0.342768949745
+
+
+get decide 
+0.221528734026
+
+
+get split 
+0.337298388841
+
+
+get start 
+0.281266414063
+
+
+get finish 
+0.376639773902
+
+
+get gather 
+0.145295265218
+
+
+get want 
+0.134462544637
+
+
+get desire 
+0.140321168722
+
+
+get wish 
+0.112135560661
+
+
+get ask 
+0.222730974118
+
+
+get contain 
+0.0878896153157
+
+
+get include 
+0.150154797908
+
+
+cut have 
+0.21567889179
+
+
+cut be 
+0.163194335839
+
+
+cut buy 
+0.0873350184448
+
+
+cut give 
+0.146451000555
+
+
+cut pick 
+0.237355444841
+
+
+cut grow 
+0.239094529787
+
+
+cut spend 
+0.0
+
+
+cut find 
+0.128437500439
+
+
+cut pay 
+0.150696247283
+
+
+cut plant 
+0.637507043987
+
+
+cut go 
+0.234768360077
+
+
+cut play 
+0.127231650165
+
+
+cut get 
+0.195164349363
+
+
+cut cut 
+1.44269504089
+
+
+cut work 
+0.217219023429
+
+
+cut sell 
+0.154912914873
+
+
+cut purchase 
+0.0
+
+
+cut place 
+0.819520667259
+
+
+cut miss 
+0.317089530452
+
+
+cut make 
+0.267103206516
+
+
+cut catch 
+0.284675036039
+
+
+cut hold 
+0.181730791384
+
+
+cut serve 
+0.193361504152
+
+
+cut earn 
+0.0
+
+
+cut borrow 
+0.0
+
+
+cut save 
+0.242947786341
+
+
+cut receive 
+0.10080575107
+
+
+cut leave 
+0.180149368716
+
+
+cut attend 
+0.0
+
+
+cut see 
+0.117891277223
+
+
+cut stack 
+0.280736099846
+
+
+cut eat 
+0.0938161247389
+
+
+cut cost 
+0.143602151539
+
+
+cut win 
+0.0
+
+
+cut lose 
+0.141919717218
+
+
+cut do 
+0.23072375643
+
+
+cut rent 
+0.233255452493
+
+
+cut need 
+0.10900545927
+
+
+cut take 
+0.140763690725
+
+
+cut stand 
+0.108866512667
+
+
+cut end 
+0.259280420249
+
+
+cut put 
+0.819520667259
+
+
+cut call 
+0.149387545355
+
+
+cut break 
+0.342002031531
+
+
+cut shine 
+0.194190807761
+
+
+cut store 
+0.206805174077
+
+
+cut begin 
+0.112483439323
+
+
+cut divide 
+0.267867042084
+
+
+cut come 
+0.169994231288
+
+
+cut fill 
+0.38254102894
+
+
+cut clean 
+0.341288156881
+
+
+cut add 
+0.170536442439
+
+
+cut defeat 
+0.0
+
+
+cut crack 
+0.214266750102
+
+
+cut decide 
+0.207817808277
+
+
+cut split 
+0.432872565731
+
+
+cut start 
+0.138566314852
+
+
+cut finish 
+0.40105298137
+
+
+cut gather 
+0.271191217798
+
+
+cut want 
+0.150050082978
+
+
+cut desire 
+0.168470451009
+
+
+cut wish 
+0.120686455066
+
+
+cut ask 
+0.327686304914
+
+
+cut contain 
+0.0857903033899
+
+
+cut include 
+0.147429253273
+
+
+work have 
+0.172713000086
+
+
+work be 
+0.18236056146
+
+
+work buy 
+0.0936008208859
+
+
+work give 
+0.191542972399
+
+
+work pick 
+0.118384820493
+
+
+work grow 
+0.123583123662
+
+
+work spend 
+0.0
+
+
+work find 
+0.093004793687
+
+
+work pay 
+0.132795723037
+
+
+work plant 
+0.16840417594
+
+
+work go 
+0.360580596952
+
+
+work play 
+0.15136263792
+
+
+work get 
+0.251255505809
+
+
+work cut 
+0.184891549298
+
+
+work work 
+1.44269504089
+
+
+work sell 
+0.10985804263
+
+
+work purchase 
+0.0
+
+
+work place 
+0.211287743626
+
+
+work miss 
+0.0
+
+
+work make 
+0.220952027054
+
+
+work catch 
+0.196934403696
+
+
+work hold 
+0.235123380866
+
+
+work serve 
+0.494128888144
+
+
+work earn 
+0.0
+
+
+work borrow 
+0.0
+
+
+work save 
+0.082276091262
+
+
+work receive 
+0.192735017972
+
+
+work leave 
+0.146314905801
+
+
+work attend 
+0.0
+
+
+work see 
+0.128565500272
+
+
+work stack 
+0.173722924164
+
+
+work eat 
+0.0928368847894
+
+
+work cost 
+0.157690945266
+
+
+work win 
+0.292565384633
+
+
+work lose 
+0.122336024651
+
+
+work do 
+0.163244950669
+
+
+work rent 
+0.101913623211
+
+
+work need 
+0.117639202658
+
+
+work take 
+0.188340430607
+
+
+work stand 
+0.115989341433
+
+
+work end 
+0.214390412268
+
+
+work put 
+0.211287743626
+
+
+work call 
+0.114941639729
+
+
+work break 
+0.212062613608
+
+
+work shine 
+0.0905677966882
+
+
+work store 
+0.0
+
+
+work begin 
+0.16259247289
+
+
+work divide 
+0.117963885498
+
+
+work come 
+0.273418553129
+
+
+work fill 
+0.307204680482
+
+
+work clean 
+0.211614984994
+
+
+work add 
+0.149119448513
+
+
+work defeat 
+0.0
+
+
+work crack 
+0.192473018732
+
+
+work decide 
+0.171362107447
+
+
+work split 
+0.126680269498
+
+
+work start 
+0.108867713827
+
+
+work finish 
+0.249163094014
+
+
+work gather 
+0.138154414041
+
+
+work want 
+0.11963158509
+
+
+work desire 
+0.12167559507
+
+
+work wish 
+0.123938605528
+
+
+work ask 
+0.179628784119
+
+
+work contain 
+0.093882724692
+
+
+work include 
+0.0997278249135
+
+
+sell have 
+0.122900120521
+
+
+sell be 
+0.428476522816
+
+
+sell buy 
+0.275431767421
+
+
+sell give 
+0.330481519144
+
+
+sell pick 
+0.10737613985
+
+
+sell grow 
+0.0
+
+
+sell spend 
+0.331359664697
+
+
+sell find 
+0.0
+
+
+sell pay 
+0.813773217858
+
+
+sell plant 
+0.156556464689
+
+
+sell go 
+0.168924632361
+
+
+sell play 
+0.149821382532
+
+
+sell get 
+0.136497234939
+
+
+sell cut 
+0.102592669577
+
+
+sell work 
+0.0735525375373
+
+
+sell sell 
+1.44269504089
+
+
+sell purchase 
+0.0
+
+
+sell place 
+0.09920165315
+
+
+sell miss 
+0.0
+
+
+sell make 
+0.214855086507
+
+
+sell catch 
+0.0
+
+
+sell hold 
+0.0607500977596
+
+
+sell serve 
+0.147981460822
+
+
+sell earn 
+0.0
+
+
+sell borrow 
+0.0
+
+
+sell save 
+0.0954621201629
+
+
+sell receive 
+0.0
+
+
+sell leave 
+0.155738361526
+
+
+sell attend 
+0.0
+
+
+sell see 
+0.0666864667405
+
+
+sell stack 
+0.0
+
+
+sell eat 
+0.146894239514
+
+
+sell cost 
+0.372873209732
+
+
+sell win 
+0.0
+
+
+sell lose 
+0.0
+
+
+sell do 
+0.0
+
+
+sell rent 
+0.291891761053
+
+
+sell need 
+0.183563929343
+
+
+sell take 
+0.207246565976
+
+
+sell stand 
+0.277252442716
+
+
+sell end 
+0.130856735567
+
+
+sell put 
+0.156373419036
+
+
+sell call 
+0.139113995912
+
+
+sell break 
+0.0976766352335
+
+
+sell shine 
+0.115174950328
+
+
+sell store 
+0.0
+
+
+sell begin 
+0.116484842859
+
+
+sell divide 
+0.0
+
+
+sell come 
+0.0765804434292
+
+
+sell fill 
+0.152850240955
+
+
+sell clean 
+0.084910154516
+
+
+sell add 
+0.0
+
+
+sell defeat 
+0.0
+
+
+sell crack 
+0.0719254432286
+
+
+sell decide 
+0.190382280956
+
+
+sell split 
+0.0
+
+
+sell start 
+0.063943955656
+
+
+sell finish 
+0.140227826508
+
+
+sell gather 
+0.186713171273
+
+
+sell want 
+0.183563929343
+
+
+sell desire 
+0.0
+
+
+sell wish 
+0.0
+
+
+sell ask 
+0.21726807227
+
+
+sell contain 
+0.100906906957
+
+
+sell include 
+0.10696053652
+
+
+purchase have 
+0.127575541112
+
+
+purchase be 
+0.0
+
+
+purchase buy 
+1.44269504089
+
+
+purchase give 
+0.0
+
+
+purchase pick 
+0.0
+
+
+purchase grow 
+0.0
+
+
+purchase spend 
+0.0
+
+
+purchase find 
+0.250544295197
+
+
+purchase pay 
+0.191084900496
+
+
+purchase plant 
+0.0
+
+
+purchase go 
+0.0
+
+
+purchase play 
+0.0
+
+
+purchase get 
+1.0890168905
+
+
+purchase cut 
+0.0
+
+
+purchase work 
+0.0
+
+
+purchase sell 
+0.0
+
+
+purchase purchase 
+1.44269504089
+
+
+purchase place 
+0.0
+
+
+purchase miss 
+0.0
+
+
+purchase make 
+0.130410293294
+
+
+purchase catch 
+0.136305223345
+
+
+purchase hold 
+0.0
+
+
+purchase serve 
+0.0
+
+
+purchase earn 
+0.86829931228
+
+
+purchase borrow 
+0.630996797253
+
+
+purchase save 
+0.0
+
+
+purchase receive 
+0.954667710397
+
+
+purchase leave 
+0.0
+
+
+purchase attend 
+0.0
+
+
+purchase see 
+0.0
+
+
+purchase stack 
+0.0
+
+
+purchase eat 
+0.0
+
+
+purchase cost 
+0.0
+
+
+purchase win 
+0.317112270444
+
+
+purchase lose 
+0.0
+
+
+purchase do 
+0.0
+
+
+purchase rent 
+0.244360414696
+
+
+purchase need 
+0.0
+
+
+purchase take 
+0.140300712304
+
+
+purchase stand 
+0.0
+
+
+purchase end 
+0.0
+
+
+purchase put 
+0.0
+
+
+purchase call 
+0.0
+
+
+purchase break 
+0.0
+
+
+purchase shine 
+0.0
+
+
+purchase store 
+0.0
+
+
+purchase begin 
+0.0
+
+
+purchase divide 
+0.0
+
+
+purchase come 
+0.0
+
+
+purchase fill 
+0.0
+
+
+purchase clean 
+0.0
+
+
+purchase add 
+0.0
+
+
+purchase defeat 
+0.0
+
+
+purchase crack 
+0.0
+
+
+purchase decide 
+0.0
+
+
+purchase split 
+0.0
+
+
+purchase start 
+0.0
+
+
+purchase finish 
+0.0
+
+
+purchase gather 
+0.0
+
+
+purchase want 
+0.0
+
+
+purchase desire 
+0.0
+
+
+purchase wish 
+0.0
+
+
+purchase ask 
+0.0
+
+
+purchase contain 
+0.0
+
+
+purchase include 
+0.0
+
+
+place have 
+0.0996260506981
+
+
+place be 
+0.247672094155
+
+
+place buy 
+0.245016569764
+
+
+place give 
+0.23172395942
+
+
+place pick 
+0.161636099679
+
+
+place grow 
+0.0
+
+
+place spend 
+0.335950060485
+
+
+place find 
+0.265648803691
+
+
+place pay 
+0.337017688574
+
+
+place plant 
+1.07219129986
+
+
+place go 
+0.114816306931
+
+
+place play 
+0.280242756451
+
+
+place get 
+0.152654589629
+
+
+place cut 
+0.819520667259
+
+
+place work 
+0.10977955609
+
+
+place sell 
+0.193053667112
+
+
+place purchase 
+0.0
+
+
+place place 
+1.44269504089
+
+
+place miss 
+0.0
+
+
+place make 
+0.187347565374
+
+
+place catch 
+0.132697517194
+
+
+place hold 
+0.157232468355
+
+
+place serve 
+0.144929603225
+
+
+place earn 
+0.0
+
+
+place borrow 
+0.0
+
+
+place save 
+0.164200747795
+
+
+place receive 
+0.137731561152
+
+
+place leave 
+0.141667557041
+
+
+place attend 
+0.0
+
+
+place see 
+0.19501516366
+
+
+place stack 
+0.383628155081
+
+
+place eat 
+0.234089929561
+
+
+place cost 
+0.214867242739
+
+
+place win 
+0.0
+
+
+place lose 
+0.235374185782
+
+
+place do 
+0.140761258237
+
+
+place rent 
+0.181180264569
+
+
+place need 
+0.145201992532
+
+
+place take 
+0.143356198303
+
+
+place stand 
+0.158923423299
+
+
+place end 
+0.117695759009
+
+
+place put 
+1.44269504089
+
+
+place call 
+0.175769803744
+
+
+place break 
+0.110693444761
+
+
+place shine 
+0.103395892419
+
+
+place store 
+0.0
+
+
+place begin 
+0.194865124726
+
+
+place divide 
+0.251770025961
+
+
+place come 
+0.148424758963
+
+
+place fill 
+0.149833123468
+
+
+place clean 
+0.272392373487
+
+
+place add 
+0.21693840959
+
+
+place defeat 
+0.255274419523
+
+
+place crack 
+0.0681186322312
+
+
+place decide 
+0.105408335201
+
+
+place split 
+0.251358164264
+
+
+place start 
+0.130095758758
+
+
+place finish 
+0.0956495306443
+
+
+place gather 
+0.132413701583
+
+
+place want 
+0.187473998914
+
+
+place desire 
+0.199127973655
+
+
+place wish 
+0.237032817936
+
+
+place ask 
+0.390724516762
+
+
+place contain 
+0.0984666741716
+
+
+place include 
+0.2713740315
+
+
+miss have 
+0.0
+
+
+miss be 
+0.0
+
+
+miss buy 
+0.0
+
+
+miss give 
+0.0
+
+
+miss pick 
+0.0
+
+
+miss grow 
+0.0
+
+
+miss spend 
+0.0
+
+
+miss find 
+0.0
+
+
+miss pay 
+0.0
+
+
+miss plant 
+0.0
+
+
+miss go 
+0.0
+
+
+miss play 
+0.0
+
+
+miss get 
+0.0
+
+
+miss cut 
+0.197066359517
+
+
+miss work 
+0.0
+
+
+miss sell 
+0.0
+
+
+miss purchase 
+0.0
+
+
+miss place 
+0.0
+
+
+miss miss 
+1.44269504089
+
+
+miss make 
+0.0
+
+
+miss catch 
+0.0
+
+
+miss hold 
+0.0
+
+
+miss serve 
+0.0
+
+
+miss earn 
+0.0
+
+
+miss borrow 
+0.0
+
+
+miss save 
+0.0
+
+
+miss receive 
+0.0
+
+
+miss leave 
+0.0
+
+
+miss attend 
+0.0
+
+
+miss see 
+0.0
+
+
+miss stack 
+0.0
+
+
+miss eat 
+0.0
+
+
+miss cost 
+0.0
+
+
+miss win 
+0.0
+
+
+miss lose 
+0.216679065336
+
+
+miss do 
+0.0
+
+
+miss rent 
+0.0
+
+
+miss need 
+0.0
+
+
+miss take 
+0.0
+
+
+miss stand 
+0.0
+
+
+miss end 
+0.0
+
+
+miss put 
+0.0
+
+
+miss call 
+0.0
+
+
+miss break 
+0.0
+
+
+miss shine 
+0.0
+
+
+miss store 
+0.0
+
+
+miss begin 
+0.0
+
+
+miss divide 
+0.0
+
+
+miss come 
+0.0
+
+
+miss fill 
+0.0
+
+
+miss clean 
+0.0
+
+
+miss add 
+0.0
+
+
+miss defeat 
+0.0
+
+
+miss crack 
+0.0
+
+
+miss decide 
+0.0
+
+
+miss split 
+0.0
+
+
+miss start 
+0.0
+
+
+miss finish 
+0.0
+
+
+miss gather 
+0.0
+
+
+miss want 
+0.759461193372
+
+
+miss desire 
+0.759461193372
+
+
+miss wish 
+0.679772687948
+
+
+miss ask 
+0.0
+
+
+miss contain 
+0.0
+
+
+miss include 
+0.0
+
+
+make have 
+0.295136114713
+
+
+make be 
+0.183304897815
+
+
+make buy 
+0.250994789896
+
+
+make give 
+0.242298870525
+
+
+make pick 
+0.20964401146
+
+
+make grow 
+0.212485780484
+
+
+make spend 
+0.0
+
+
+make find 
+0.194583525702
+
+
+make pay 
+0.276286283526
+
+
+make plant 
+0.297388828161
+
+
+make go 
+0.214992567759
+
+
+make play 
+0.237802857036
+
+
+make get 
+0.405655951032
+
+
+make cut 
+0.267103206516
+
+
+make work 
+0.255563173398
+
+
+make sell 
+0.246643345898
+
+
+make purchase 
+0.250994789896
+
+
+make place 
+0.245663301337
+
+
+make miss 
+0.0
+
+
+make make 
+1.44269504089
+
+
+make catch 
+0.131303317031
+
+
+make hold 
+0.281266414063
+
+
+make serve 
+0.276890964575
+
+
+make earn 
+0.417032391424
+
+
+make borrow 
+0.181448116679
+
+
+make save 
+0.0839882500168
+
+
+make receive 
+0.273790113491
+
+
+make leave 
+0.317374710708
+
+
+make attend 
+0.0
+
+
+make see 
+0.242342760615
+
+
+make stack 
+0.320439816753
+
+
+make eat 
+0.10872170984
+
+
+make cost 
+0.131908773647
+
+
+make win 
+0.291295497168
+
+
+make lose 
+0.150324576182
+
+
+make do 
+1.44269504089
+
+
+make rent 
+0.18981301749
+
+
+make need 
+0.100932461194
+
+
+make take 
+0.150844049688
+
+
+make stand 
+0.12681579214
+
+
+make end 
+0.318774706896
+
+
+make put 
+0.238413998653
+
+
+make call 
+0.119304399071
+
+
+make break 
+0.402802557118
+
+
+make shine 
+0.179880637309
+
+
+make store 
+0.0
+
+
+make begin 
+0.182755128608
+
+
+make divide 
+0.180435659078
+
+
+make come 
+0.213966833021
+
+
+make fill 
+0.460247220605
+
+
+make clean 
+0.401812664931
+
+
+make add 
+0.218180519686
+
+
+make defeat 
+0.130014773422
+
+
+make crack 
+0.162267360513
+
+
+make decide 
+0.254304373525
+
+
+make split 
+0.101702407072
+
+
+make start 
+0.162548594147
+
+
+make finish 
+0.487309772737
+
+
+make gather 
+0.242304460773
+
+
+make want 
+0.109064694158
+
+
+make desire 
+0.104775541563
+
+
+make wish 
+0.112853126666
+
+
+make ask 
+0.146953622442
+
+
+make contain 
+0.0902339996799
+
+
+make include 
+0.183807698623
+
+
+catch have 
+0.190358303686
+
+
+catch be 
+0.0
+
+
+catch buy 
+0.258958867938
+
+
+catch give 
+0.0850111152061
+
+
+catch pick 
+0.16503403843
+
+
+catch grow 
+0.185543937168
+
+
+catch spend 
+0.0
+
+
+catch find 
+0.352262522648
+
+
+catch pay 
+0.160943961565
+
+
+catch plant 
+0.284086756789
+
+
+catch go 
+0.167469559112
+
+
+catch play 
+0.219338501185
+
+
+catch get 
+0.317659155389
+
+
+catch cut 
+0.215430416528
+
+
+catch work 
+0.161198130462
+
+
+catch sell 
+0.0
+
+
+catch purchase 
+0.258958867938
+
+
+catch place 
+0.249641901261
+
+
+catch miss 
+0.0
+
+
+catch make 
+0.16946549865
+
+
+catch catch 
+1.44269504089
+
+
+catch hold 
+0.167010554551
+
+
+catch serve 
+0.107723929576
+
+
+catch earn 
+0.257205398704
+
+
+catch borrow 
+0.190081788574
+
+
+catch save 
+0.202146889159
+
+
+catch receive 
+0.281083368036
+
+
+catch leave 
+0.142189055721
+
+
+catch attend 
+0.164768917744
+
+
+catch see 
+0.571780500067
+
+
+catch stack 
+0.14748631024
+
+
+catch eat 
+0.224076961841
+
+
+catch cost 
+0.0
+
+
+catch win 
+0.194663000705
+
+
+catch lose 
+0.144544185784
+
+
+catch do 
+0.123979135321
+
+
+catch rent 
+0.187221653442
+
+
+catch need 
+0.0
+
+
+catch take 
+0.30150814694
+
+
+catch stand 
+0.0972173963915
+
+
+catch end 
+0.0
+
+
+catch put 
+0.249641901261
+
+
+catch call 
+0.120243413158
+
+
+catch break 
+0.115236659679
+
+
+catch shine 
+0.0
+
+
+catch store 
+0.271583837213
+
+
+catch begin 
+0.0
+
+
+catch divide 
+0.122706642987
+
+
+catch come 
+0.103484405677
+
+
+catch fill 
+0.166043231183
+
+
+catch clean 
+0.129233719529
+
+
+catch add 
+0.172289709513
+
+
+catch defeat 
+0.0
+
+
+catch crack 
+0.253932251007
+
+
+catch decide 
+0.0940857431521
+
+
+catch split 
+0.142819444778
+
+
+catch start 
+0.122756846955
+
+
+catch finish 
+0.0
+
+
+catch gather 
+0.171027826601
+
+
+catch want 
+0.126649844297
+
+
+catch desire 
+0.131450128603
+
+
+catch wish 
+0.106506469097
+
+
+catch ask 
+0.202240011322
+
+
+catch contain 
+0.323515453149
+
+
+catch include 
+0.146406980078
+
+
+hold have 
+0.62133493456
+
+
+hold be 
+0.195305789554
+
+
+hold buy 
+0.132803964639
+
+
+hold give 
+0.272958420409
+
+
+hold pick 
+0.15903412191
+
+
+hold grow 
+0.115616343212
+
+
+hold spend 
+0.0
+
+
+hold find 
+0.181119127544
+
+
+hold pay 
+0.223098884038
+
+
+hold plant 
+0.159516163262
+
+
+hold go 
+0.118636950028
+
+
+hold play 
+0.126039200057
+
+
+hold get 
+0.163359015818
+
+
+hold cut 
+0.162759320603
+
+
+hold work 
+0.148441191506
+
+
+hold sell 
+0.107592409034
+
+
+hold purchase 
+0.0
+
+
+hold place 
+0.198529503062
+
+
+hold miss 
+0.0
+
+
+hold make 
+0.193023445423
+
+
+hold catch 
+0.189461590845
+
+
+hold hold 
+1.44269504089
+
+
+hold serve 
+0.081227774104
+
+
+hold earn 
+0.0
+
+
+hold borrow 
+0.0
+
+
+hold save 
+0.420164372133
+
+
+hold receive 
+0.125717644319
+
+
+hold leave 
+0.134054864751
+
+
+hold attend 
+0.0
+
+
+hold see 
+0.230022557185
+
+
+hold stack 
+0.145139030627
+
+
+hold eat 
+0.16995634011
+
+
+hold cost 
+0.154424273526
+
+
+hold win 
+0.0
+
+
+hold lose 
+0.281178679493
+
+
+hold do 
+0.148921260512
+
+
+hold rent 
+0.19799589774
+
+
+hold need 
+0.115600976077
+
+
+hold take 
+0.137220127469
+
+
+hold stand 
+0.24665733817
+
+
+hold end 
+0.187550863449
+
+
+hold put 
+0.198004240604
+
+
+hold call 
+0.178377004691
+
+
+hold break 
+0.217276217871
+
+
+hold shine 
+0.162172717922
+
+
+hold store 
+0.449384256222
+
+
+hold begin 
+0.0948402213731
+
+
+hold divide 
+0.172972849082
+
+
+hold come 
+0.132379854546
+
+
+hold fill 
+0.196245950444
+
+
+hold clean 
+0.17563198571
+
+
+hold add 
+0.182009363064
+
+
+hold defeat 
+0.209417035086
+
+
+hold crack 
+0.167053814149
+
+
+hold decide 
+0.151284544561
+
+
+hold split 
+0.108665582799
+
+
+hold start 
+0.067867846176
+
+
+hold finish 
+0.205454496672
+
+
+hold gather 
+0.119404531552
+
+
+hold want 
+0.167591404512
+
+
+hold desire 
+0.164063781094
+
+
+hold wish 
+0.153922530284
+
+
+hold ask 
+0.232247877262
+
+
+hold contain 
+0.369269373069
+
+
+hold include 
+0.386046702847
+
+
+serve have 
+0.12967123203
+
+
+serve be 
+0.198033630464
+
+
+serve buy 
+0.20951940922
+
+
+serve give 
+0.252495784512
+
+
+serve pick 
+0.17549435766
+
+
+serve grow 
+0.0
+
+
+serve spend 
+0.425846893761
+
+
+serve find 
+0.0886628233043
+
+
+serve pay 
+0.324791515339
+
+
+serve plant 
+0.244986562238
+
+
+serve go 
+0.173409985758
+
+
+serve play 
+0.148658498696
+
+
+serve get 
+0.236443341389
+
+
+serve cut 
+0.172409033226
+
+
+serve work 
+0.494128888144
+
+
+serve sell 
+0.26908627719
+
+
+serve purchase 
+0.0
+
+
+serve place 
+0.198413090964
+
+
+serve miss 
+0.0
+
+
+serve make 
+0.219293601979
+
+
+serve catch 
+0.130978758889
+
+
+serve hold 
+0.0678164914407
+
+
+serve serve 
+1.44269504089
+
+
+serve earn 
+0.0
+
+
+serve borrow 
+0.0
+
+
+serve save 
+0.0981995564293
+
+
+serve receive 
+0.0
+
+
+serve leave 
+0.14037310425
+
+
+serve attend 
+0.311876037596
+
+
+serve see 
+0.154481582694
+
+
+serve stack 
+0.126052478493
+
+
+serve eat 
+0.145851474255
+
+
+serve cost 
+0.0
+
+
+serve win 
+0.0
+
+
+serve lose 
+0.11013816282
+
+
+serve do 
+0.318140406694
+
+
+serve rent 
+0.221719680682
+
+
+serve need 
+0.0
+
+
+serve take 
+0.159798713169
+
+
+serve stand 
+0.186482246354
+
+
+serve end 
+0.0
+
+
+serve put 
+0.198413090964
+
+
+serve call 
+0.111554623989
+
+
+serve break 
+0.0485319607793
+
+
+serve shine 
+0.0
+
+
+serve store 
+0.0
+
+
+serve begin 
+0.0
+
+
+serve divide 
+0.114488138219
+
+
+serve come 
+0.0
+
+
+serve fill 
+0.275526469187
+
+
+serve clean 
+0.115394655324
+
+
+serve add 
+0.0
+
+
+serve defeat 
+0.0
+
+
+serve crack 
+0.0
+
+
+serve decide 
+0.18063340285
+
+
+serve split 
+0.121244705631
+
+
+serve start 
+0.110376005928
+
+
+serve finish 
+0.0
+
+
+serve gather 
+0.136702883501
+
+
+serve want 
+0.115802831884
+
+
+serve desire 
+0.117302859756
+
+
+serve wish 
+0.0992722447007
+
+
+serve ask 
+0.170645572006
+
+
+serve contain 
+0.0
+
+
+serve include 
+0.0
+
+
+earn have 
+0.126553538738
+
+
+earn be 
+0.0
+
+
+earn buy 
+0.86829931228
+
+
+earn give 
+0.0
+
+
+earn pick 
+0.0
+
+
+earn grow 
+0.0
+
+
+earn spend 
+0.0
+
+
+earn find 
+0.248824384177
+
+
+earn pay 
+0.317719590636
+
+
+earn plant 
+0.0
+
+
+earn go 
+0.0
+
+
+earn play 
+0.0
+
+
+earn get 
+1.0792558231
+
+
+earn cut 
+0.0
+
+
+earn work 
+0.0
+
+
+earn sell 
+0.0
+
+
+earn purchase 
+0.86829931228
+
+
+earn place 
+0.0
+
+
+earn miss 
+0.0
+
+
+earn make 
+0.216679065336
+
+
+earn catch 
+0.13538226976
+
+
+earn hold 
+0.0
+
+
+earn serve 
+0.0
+
+
+earn earn 
+1.44269504089
+
+
+earn borrow 
+0.627707351981
+
+
+earn save 
+0.0
+
+
+earn receive 
+0.94715817548
+
+
+earn leave 
+0.0
+
+
+earn attend 
+0.0
+
+
+earn see 
+0.0
+
+
+earn stack 
+0.0
+
+
+earn eat 
+0.0
+
+
+earn cost 
+0.0
+
+
+earn win 
+0.315184898603
+
+
+earn lose 
+0.0
+
+
+earn do 
+0.0
+
+
+earn rent 
+0.242724079623
+
+
+earn need 
+0.0
+
+
+earn take 
+0.139176769111
+
+
+earn stand 
+0.0
+
+
+earn end 
+0.0
+
+
+earn put 
+0.0
+
+
+earn call 
+0.0
+
+
+earn break 
+0.0
+
+
+earn shine 
+0.0
+
+
+earn store 
+0.0
+
+
+earn begin 
+0.0
+
+
+earn divide 
+0.0
+
+
+earn come 
+0.0
+
+
+earn fill 
+0.0
+
+
+earn clean 
+0.0
+
+
+earn add 
+0.0
+
+
+earn defeat 
+0.0
+
+
+earn crack 
+0.0
+
+
+earn decide 
+0.0
+
+
+earn split 
+0.0
+
+
+earn start 
+0.0
+
+
+earn finish 
+0.0
+
+
+earn gather 
+0.0
+
+
+earn want 
+0.0
+
+
+earn desire 
+0.0
+
+
+earn wish 
+0.0
+
+
+earn ask 
+0.0
+
+
+earn contain 
+0.0
+
+
+earn include 
+0.0
+
+
+borrow have 
+0.130040807665
+
+
+borrow be 
+0.0
+
+
+borrow buy 
+0.630996797253
+
+
+borrow give 
+0.0
+
+
+borrow pick 
+0.0
+
+
+borrow grow 
+0.0
+
+
+borrow spend 
+0.0
+
+
+borrow find 
+0.192536236009
+
+
+borrow pay 
+0.15176346944
+
+
+borrow plant 
+0.0
+
+
+borrow go 
+0.0
+
+
+borrow play 
+0.0
+
+
+borrow get 
+0.735466154494
+
+
+borrow cut 
+0.0
+
+
+borrow work 
+0.0
+
+
+borrow sell 
+0.0
+
+
+borrow purchase 
+0.630996797253
+
+
+borrow place 
+0.0
+
+
+borrow miss 
+0.0
+
+
+borrow make 
+0.10325037786
+
+
+borrow catch 
+0.108983360979
+
+
+borrow hold 
+0.0
+
+
+borrow serve 
+0.0
+
+
+borrow earn 
+0.627707351981
+
+
+borrow borrow 
+1.44269504089
+
+
+borrow save 
+0.0
+
+
+borrow receive 
+0.671633458718
+
+
+borrow leave 
+0.0
+
+
+borrow attend 
+0.0
+
+
+borrow see 
+0.0
+
+
+borrow stack 
+0.0
+
+
+borrow eat 
+0.0
+
+
+borrow cost 
+0.0
+
+
+borrow win 
+0.239325569481
+
+
+borrow lose 
+0.0
+
+
+borrow do 
+0.0
+
+
+borrow rent 
+0.188714350755
+
+
+borrow need 
+0.0
+
+
+borrow take 
+0.142906103556
+
+
+borrow stand 
+0.0
+
+
+borrow end 
+0.0
+
+
+borrow put 
+0.0
+
+
+borrow call 
+0.0
+
+
+borrow break 
+0.0
+
+
+borrow shine 
+0.0
+
+
+borrow store 
+0.0
+
+
+borrow begin 
+0.0
+
+
+borrow divide 
+0.0
+
+
+borrow come 
+0.0
+
+
+borrow fill 
+0.0
+
+
+borrow clean 
+0.0
+
+
+borrow add 
+0.0
+
+
+borrow defeat 
+0.0
+
+
+borrow crack 
+0.0
+
+
+borrow decide 
+0.0
+
+
+borrow split 
+0.0
+
+
+borrow start 
+0.0
+
+
+borrow finish 
+0.0
+
+
+borrow gather 
+0.0
+
+
+borrow want 
+0.0
+
+
+borrow desire 
+0.0
+
+
+borrow wish 
+0.0
+
+
+borrow ask 
+0.0
+
+
+borrow contain 
+0.0
+
+
+borrow include 
+0.0
+
+
+save have 
+0.795282611307
+
+
+save be 
+0.0
+
+
+save buy 
+0.227756879686
+
+
+save give 
+0.193775609745
+
+
+save pick 
+0.137465877849
+
+
+save grow 
+0.0
+
+
+save spend 
+0.302263382511
+
+
+save find 
+0.0
+
+
+save pay 
+0.311190769993
+
+
+save plant 
+0.162327430605
+
+
+save go 
+0.0
+
+
+save play 
+0.070224030376
+
+
+save get 
+0.107657296689
+
+
+save cut 
+0.175786238217
+
+
+save work 
+0.082276091262
+
+
+save sell 
+0.182696727946
+
+
+save purchase 
+0.0
+
+
+save place 
+0.201809201709
+
+
+save miss 
+0.0
+
+
+save make 
+0.0615952226553
+
+
+save catch 
+0.105681420054
+
+
+save hold 
+0.302281963336
+
+
+save serve 
+0.124041465874
+
+
+save earn 
+0.0
+
+
+save borrow 
+0.0
+
+
+save save 
+1.44269504089
+
+
+save receive 
+0.0
+
+
+save leave 
+0.264924301293
+
+
+save attend 
+0.0
+
+
+save see 
+0.0
+
+
+save stack 
+0.127681724731
+
+
+save eat 
+0.200609287572
+
+
+save cost 
+0.0
+
+
+save win 
+0.0
+
+
+save lose 
+0.109889080988
+
+
+save do 
+0.0
+
+
+save rent 
+0.166795742402
+
+
+save need 
+0.0
+
+
+save take 
+0.158675608031
+
+
+save stand 
+0.0788361486566
+
+
+save end 
+0.0
+
+
+save put 
+0.211553071643
+
+
+save call 
+0.16558856156
+
+
+save break 
+0.106207078141
+
+
+save shine 
+0.0
+
+
+save store 
+0.712793133561
+
+
+save begin 
+0.0
+
+
+save divide 
+0.11322336665
+
+
+save come 
+0.0
+
+
+save fill 
+0.127503615625
+
+
+save clean 
+0.115873616395
+
+
+save add 
+0.0
+
+
+save defeat 
+0.0
+
+
+save crack 
+0.0
+
+
+save decide 
+0.0
+
+
+save split 
+0.122872177669
+
+
+save start 
+0.0
+
+
+save finish 
+0.0
+
+
+save gather 
+0.0
+
+
+save want 
+0.172636268249
+
+
+save desire 
+0.176082243432
+
+
+save wish 
+0.147601550336
+
+
+save ask 
+0.257276184755
+
+
+save contain 
+0.0
+
+
+save include 
+0.0
+
+
+receive have 
+0.389871245251
+
+
+receive be 
+0.0
+
+
+receive buy 
+0.954667710397
+
+
+receive give 
+0.0919834585178
+
+
+receive pick 
+0.104425279457
+
+
+receive grow 
+0.354448523181
+
+
+receive spend 
+0.0
+
+
+receive find 
+0.360640883856
+
+
+receive pay 
+0.206554281361
+
+
+receive plant 
+0.0
+
+
+receive go 
+0.283993202418
+
+
+receive play 
+0.0950391311198
+
+
+receive get 
+1.21599372378
+
+
+receive cut 
+0.144179062414
+
+
+receive work 
+0.134116948807
+
+
+receive sell 
+0.0
+
+
+receive purchase 
+0.954667710397
+
+
+receive place 
+0.186328918384
+
+
+receive miss 
+0.0
+
+
+receive make 
+0.168419902273
+
+
+receive catch 
+0.298154707961
+
+
+receive hold 
+0.170597749083
+
+
+receive serve 
+0.0
+
+
+receive earn 
+0.94715817548
+
+
+receive borrow 
+0.671633458718
+
+
+receive save 
+0.0
+
+
+receive receive 
+1.44269504089
+
+
+receive leave 
+0.120899871412
+
+
+receive attend 
+0.178414768458
+
+
+receive see 
+0.503545501857
+
+
+receive stack 
+0.128482171995
+
+
+receive eat 
+0.218351941285
+
+
+receive cost 
+0.0
+
+
+receive win 
+0.341202000008
+
+
+receive lose 
+0.0903589671886
+
+
+receive do 
+0.133149583618
+
+
+receive rent 
+0.264985807997
+
+
+receive need 
+0.0
+
+
+receive take 
+0.15472734345
+
+
+receive stand 
+0.130293327193
+
+
+receive end 
+0.164090578481
+
+
+receive put 
+0.132264362372
+
+
+receive call 
+0.208940677924
+
+
+receive break 
+0.225630712213
+
+
+receive shine 
+0.0664541595052
+
+
+receive store 
+0.0
+
+
+receive begin 
+0.0
+
+
+receive divide 
+0.326344836511
+
+
+receive come 
+0.403631479361
+
+
+receive fill 
+0.20781241513
+
+
+receive clean 
+0.153392977038
+
+
+receive add 
+0.357230835321
+
+
+receive defeat 
+0.193326110892
+
+
+receive crack 
+0.331463164766
+
+
+receive decide 
+0.134793611136
+
+
+receive split 
+0.326344836511
+
+
+receive start 
+0.0790458749612
+
+
+receive finish 
+0.177118896447
+
+
+receive gather 
+0.149768780482
+
+
+receive want 
+0.0
+
+
+receive desire 
+0.0
+
+
+receive wish 
+0.219459411939
+
+
+receive ask 
+0.0
+
+
+receive contain 
+0.0
+
+
+receive include 
+0.220572299639
+
+
+leave have 
+0.223614188648
+
+
+leave be 
+0.211146275185
+
+
+leave buy 
+0.207883969415
+
+
+leave give 
+0.409477892222
+
+
+leave pick 
+0.113942169164
+
+
+leave grow 
+0.164227186721
+
+
+leave spend 
+0.250839630311
+
+
+leave find 
+0.0999440233897
+
+
+leave pay 
+0.314257478288
+
+
+leave plant 
+0.198448133558
+
+
+leave go 
+0.366881504292
+
+
+leave play 
+0.145225840345
+
+
+leave get 
+0.29986164994
+
+
+leave cut 
+0.227465516647
+
+
+leave work 
+0.115879269537
+
+
+leave sell 
+0.258803838728
+
+
+leave purchase 
+0.0
+
+
+leave place 
+0.106750730206
+
+
+leave miss 
+0.0
+
+
+leave make 
+0.391092733075
+
+
+leave catch 
+0.0856989705532
+
+
+leave hold 
+0.0940663326894
+
+
+leave serve 
+0.151801858254
+
+
+leave earn 
+0.0
+
+
+leave borrow 
+0.0
+
+
+leave save 
+0.199536000241
+
+
+leave receive 
+0.156628586602
+
+
+leave leave 
+1.44269504089
+
+
+leave attend 
+0.0
+
+
+leave see 
+0.136843425117
+
+
+leave stack 
+0.214014152911
+
+
+leave eat 
+0.150668966353
+
+
+leave cost 
+0.0
+
+
+leave win 
+0.0
+
+
+leave lose 
+0.268407817472
+
+
+leave do 
+0.162328541079
+
+
+leave rent 
+0.22049966386
+
+
+leave need 
+0.0
+
+
+leave take 
+0.17079147344
+
+
+leave stand 
+0.127013908675
+
+
+leave end 
+0.225318301788
+
+
+leave put 
+0.203719383345
+
+
+leave call 
+0.164856346323
+
+
+leave break 
+0.2585723581
+
+
+leave shine 
+0.0709232338147
+
+
+leave store 
+0.0
+
+
+leave begin 
+0.146898543753
+
+
+leave divide 
+0.151701081192
+
+
+leave come 
+0.112499721065
+
+
+leave fill 
+0.287654811372
+
+
+leave clean 
+0.258057388664
+
+
+leave add 
+0.164960835764
+
+
+leave defeat 
+0.0
+
+
+leave crack 
+0.153910628994
+
+
+leave decide 
+0.182634610545
+
+
+leave split 
+0.211035418043
+
+
+leave start 
+0.385446920984
+
+
+leave finish 
+0.300830615619
+
+
+leave gather 
+0.189184617989
+
+
+leave want 
+0.0
+
+
+leave desire 
+0.0
+
+
+leave wish 
+0.0
+
+
+leave ask 
+0.204522817783
+
+
+leave contain 
+0.0
+
+
+leave include 
+0.126834139899
+
+
+attend have 
+0.0
+
+
+attend be 
+0.267361054757
+
+
+attend buy 
+0.0
+
+
+attend give 
+0.0
+
+
+attend pick 
+0.0
+
+
+attend grow 
+0.0
+
+
+attend spend 
+0.0
+
+
+attend find 
+0.294994247556
+
+
+attend pay 
+0.0
+
+
+attend plant 
+0.0
+
+
+attend go 
+0.128831117145
+
+
+attend play 
+0.0
+
+
+attend get 
+0.0975278228779
+
+
+attend cut 
+0.0
+
+
+attend work 
+0.0
+
+
+attend sell 
+0.0
+
+
+attend purchase 
+0.0
+
+
+attend place 
+0.0
+
+
+attend miss 
+0.0
+
+
+attend make 
+0.0
+
+
+attend catch 
+0.247153376616
+
+
+attend hold 
+0.0
+
+
+attend serve 
+0.215313487111
+
+
+attend earn 
+0.0
+
+
+attend borrow 
+0.0
+
+
+attend save 
+0.0
+
+
+attend receive 
+0.225275324437
+
+
+attend leave 
+0.0
+
+
+attend attend 
+1.44269504089
+
+
+attend see 
+0.359981559169
+
+
+attend stack 
+0.0
+
+
+attend eat 
+0.0
+
+
+attend cost 
+0.0
+
+
+attend win 
+0.0
+
+
+attend lose 
+0.0
+
+
+attend do 
+0.0
+
+
+attend rent 
+0.0
+
+
+attend need 
+0.0
+
+
+attend take 
+0.0
+
+
+attend stand 
+0.0
+
+
+attend end 
+0.0
+
+
+attend put 
+0.0
+
+
+attend call 
+0.0
+
+
+attend break 
+0.0
+
+
+attend shine 
+0.0
+
+
+attend store 
+0.0
+
+
+attend begin 
+0.0
+
+
+attend divide 
+0.0
+
+
+attend come 
+0.1058035444
+
+
+attend fill 
+0.189640316884
+
+
+attend clean 
+0.0
+
+
+attend add 
+0.0
+
+
+attend defeat 
+0.0
+
+
+attend crack 
+0.0
+
+
+attend decide 
+0.0
+
+
+attend split 
+0.0
+
+
+attend start 
+0.0
+
+
+attend finish 
+0.0
+
+
+attend gather 
+0.0
+
+
+attend want 
+0.0
+
+
+attend desire 
+0.0
+
+
+attend wish 
+0.0
+
+
+attend ask 
+0.0
+
+
+attend contain 
+0.0
+
+
+attend include 
+0.0
+
+
+see have 
+0.293459892055
+
+
+see be 
+0.112448645716
+
+
+see buy 
+0.159434202392
+
+
+see give 
+0.117519017296
+
+
+see pick 
+0.116623833643
+
+
+see grow 
+0.272950980803
+
+
+see spend 
+0.0
+
+
+see find 
+0.480425776166
+
+
+see pay 
+0.143531844951
+
+
+see plant 
+0.162457375093
+
+
+see go 
+0.212977987249
+
+
+see play 
+0.273853812105
+
+
+see get 
+0.219374393547
+
+
+see cut 
+0.0987852672637
+
+
+see work 
+0.128565500272
+
+
+see sell 
+0.106996672869
+
+
+see purchase 
+0.0
+
+
+see place 
+0.246235805721
+
+
+see miss 
+0.0
+
+
+see make 
+0.232586133464
+
+
+see catch 
+0.390300911232
+
+
+see hold 
+0.230022557185
+
+
+see serve 
+0.173780459564
+
+
+see earn 
+0.0
+
+
+see borrow 
+0.0
+
+
+see save 
+0.0
+
+
+see receive 
+0.303164600481
+
+
+see leave 
+0.108070584553
+
+
+see attend 
+0.345976256261
+
+
+see see 
+1.44269504089
+
+
+see stack 
+0.0
+
+
+see eat 
+0.0
+
+
+see cost 
+0.0
+
+
+see win 
+0.0
+
+
+see lose 
+0.0806419985522
+
+
+see do 
+0.171281052532
+
+
+see rent 
+0.0
+
+
+see need 
+0.0
+
+
+see take 
+0.228629319412
+
+
+see stand 
+0.167207995128
+
+
+see end 
+0.0
+
+
+see put 
+0.14290963492
+
+
+see call 
+0.241748342651
+
+
+see break 
+0.200448315744
+
+
+see shine 
+0.0
+
+
+see store 
+0.0
+
+
+see begin 
+0.200605553583
+
+
+see divide 
+0.25187382173
+
+
+see come 
+0.171427668295
+
+
+see fill 
+0.186169699127
+
+
+see clean 
+0.0
+
+
+see add 
+0.275032514487
+
+
+see defeat 
+0.252355903799
+
+
+see crack 
+0.25571950945
+
+
+see decide 
+0.120280680212
+
+
+see split 
+0.25187382173
+
+
+see start 
+0.142611121553
+
+
+see finish 
+0.100420749187
+
+
+see gather 
+0.141960722542
+
+
+see want 
+0.0
+
+
+see desire 
+0.0
+
+
+see wish 
+0.109613564443
+
+
+see ask 
+0.130153955698
+
+
+see contain 
+0.0
+
+
+see include 
+0.359226622715
+
+
+stack have 
+0.106279627174
+
+
+stack be 
+0.0
+
+
+stack buy 
+0.0
+
+
+stack give 
+0.0481805610796
+
+
+stack pick 
+0.0706988103992
+
+
+stack grow 
+0.102645968583
+
+
+stack spend 
+0.0
+
+
+stack find 
+0.0
+
+
+stack pay 
+0.0
+
+
+stack plant 
+0.463182324795
+
+
+stack go 
+0.0
+
+
+stack play 
+0.0925305333415
+
+
+stack get 
+0.150382839883
+
+
+stack cut 
+0.341981620711
+
+
+stack work 
+0.0955372840429
+
+
+stack sell 
+0.0
+
+
+stack purchase 
+0.0
+
+
+stack place 
+0.562005088996
+
+
+stack miss 
+0.0
+
+
+stack make 
+0.218734203876
+
+
+stack catch 
+0.0899472049786
+
+
+stack hold 
+0.077148863692
+
+
+stack serve 
+0.0709358608326
+
+
+stack earn 
+0.0
+
+
+stack borrow 
+0.0
+
+
+stack save 
+0.0728565129162
+
+
+stack receive 
+0.0676276942707
+
+
+stack leave 
+0.128849359046
+
+
+stack attend 
+0.0
+
+
+stack see 
+0.0
+
+
+stack stack 
+1.44269504089
+
+
+stack eat 
+0.0752266569008
+
+
+stack cost 
+0.0
+
+
+stack win 
+0.0
+
+
+stack lose 
+0.163259392363
+
+
+stack do 
+0.140005779422
+
+
+stack rent 
+0.096572020848
+
+
+stack need 
+0.0
+
+
+stack take 
+0.0947463887989
+
+
+stack stand 
+0.10525598233
+
+
+stack end 
+0.213985145731
+
+
+stack put 
+0.562005088996
+
+
+stack call 
+0.107250322365
+
+
+stack break 
+0.422755203988
+
+
+stack shine 
+0.0591201107974
+
+
+stack store 
+0.0
+
+
+stack begin 
+0.0
+
+
+stack divide 
+0.1058914196
+
+
+stack come 
+0.0
+
+
+stack fill 
+1.04504468762
+
+
+stack clean 
+0.422066673637
+
+
+stack add 
+0.130738621198
+
+
+stack defeat 
+0.0
+
+
+stack crack 
+0.0576719551223
+
+
+stack decide 
+0.18079533931
+
+
+stack split 
+0.165456380088
+
+
+stack start 
+0.0
+
+
+stack finish 
+0.47759933176
+
+
+stack gather 
+0.0
+
+
+stack want 
+0.117376037448
+
+
+stack desire 
+0.131423274383
+
+
+stack wish 
+0.096674072348
+
+
+stack ask 
+0.224009439837
+
+
+stack contain 
+0.0
+
+
+stack include 
+0.0
+
+
+eat have 
+0.212067945449
+
+
+eat be 
+0.0
+
+
+eat buy 
+0.298741511939
+
+
+eat give 
+0.250092021238
+
+
+eat pick 
+0.188350680233
+
+
+eat grow 
+0.10347435982
+
+
+eat spend 
+0.405002002825
+
+
+eat find 
+0.0
+
+
+eat pay 
+0.462295869128
+
+
+eat plant 
+0.150300080543
+
+
+eat go 
+0.0
+
+
+eat play 
+0.0446344700738
+
+
+eat get 
+0.143356815752
+
+
+eat cut 
+0.148209174961
+
+
+eat work 
+0.100395383438
+
+
+eat sell 
+0.267109297557
+
+
+eat purchase 
+0.0
+
+
+eat place 
+0.165053917532
+
+
+eat miss 
+0.0
+
+
+eat make 
+0.171756773801
+
+
+eat catch 
+0.394459353467
+
+
+eat hold 
+0.0874228423531
+
+
+eat serve 
+0.145851474255
+
+
+eat earn 
+0.0
+
+
+eat borrow 
+0.0
+
+
+eat save 
+0.158815787256
+
+
+eat receive 
+0.114496803662
+
+
+eat leave 
+0.139325504737
+
+
+eat attend 
+0.0
+
+
+eat see 
+0.0
+
+
+eat stack 
+0.139593949414
+
+
+eat eat 
+1.44269504089
+
+
+eat cost 
+0.0
+
+
+eat win 
+0.0
+
+
+eat lose 
+0.0
+
+
+eat do 
+0.132358146404
+
+
+eat rent 
+0.220172536669
+
+
+eat need 
+0.0
+
+
+eat take 
+0.133303802098
+
+
+eat stand 
+0.0
+
+
+eat end 
+0.16757865114
+
+
+eat put 
+0.250359562339
+
+
+eat call 
+0.0628046798684
+
+
+eat break 
+0.277361811509
+
+
+eat shine 
+0.0639525901869
+
+
+eat store 
+0.0
+
+
+eat begin 
+0.0
+
+
+eat divide 
+0.0
+
+
+eat come 
+0.0
+
+
+eat fill 
+0.232332098631
+
+
+eat clean 
+0.165447102092
+
+
+eat add 
+0.122688878172
+
+
+eat defeat 
+0.0
+
+
+eat crack 
+0.0626064456556
+
+
+eat decide 
+0.138990878832
+
+
+eat split 
+0.0
+
+
+eat start 
+0.0
+
+
+eat finish 
+0.273262119585
+
+
+eat gather 
+0.0
+
+
+eat want 
+0.0
+
+
+eat desire 
+0.0
+
+
+eat wish 
+0.0
+
+
+eat ask 
+0.0
+
+
+eat contain 
+0.0
+
+
+eat include 
+0.0
+
+
+cost have 
+0.107936690124
+
+
+cost be 
+1.09561722475
+
+
+cost buy 
+0.160898815994
+
+
+cost give 
+0.0
+
+
+cost pick 
+0.0
+
+
+cost grow 
+0.0
+
+
+cost spend 
+0.0
+
+
+cost find 
+0.0
+
+
+cost pay 
+0.0997399927853
+
+
+cost plant 
+0.0
+
+
+cost go 
+0.124836053377
+
+
+cost play 
+0.0
+
+
+cost get 
+0.063932930011
+
+
+cost cut 
+0.0737907289806
+
+
+cost work 
+0.0808287959285
+
+
+cost sell 
+0.254525562721
+
+
+cost purchase 
+0.0
+
+
+cost place 
+0.115791152959
+
+
+cost miss 
+0.0
+
+
+cost make 
+0.0665540851609
+
+
+cost catch 
+0.0
+
+
+cost hold 
+0.0786145562781
+
+
+cost serve 
+0.0
+
+
+cost earn 
+0.0
+
+
+cost borrow 
+0.0
+
+
+cost save 
+0.0
+
+
+cost receive 
+0.0
+
+
+cost leave 
+0.0
+
+
+cost attend 
+0.0
+
+
+cost see 
+0.0
+
+
+cost stack 
+0.0
+
+
+cost eat 
+0.0
+
+
+cost cost 
+1.44269504089
+
+
+cost win 
+0.0
+
+
+cost lose 
+0.0
+
+
+cost do 
+0.0
+
+
+cost rent 
+0.0
+
+
+cost need 
+0.744515810197
+
+
+cost take 
+0.154669613588
+
+
+cost stand 
+0.582790365852
+
+
+cost end 
+0.182525434232
+
+
+cost put 
+0.0
+
+
+cost call 
+0.0
+
+
+cost break 
+0.0
+
+
+cost shine 
+0.154372690489
+
+
+cost store 
+0.0
+
+
+cost begin 
+0.114083897212
+
+
+cost divide 
+0.0
+
+
+cost come 
+0.103740354508
+
+
+cost fill 
+0.0
+
+
+cost clean 
+0.110973754649
+
+
+cost add 
+0.0
+
+
+cost defeat 
+0.0
+
+
+cost crack 
+0.0
+
+
+cost decide 
+0.0
+
+
+cost split 
+0.0
+
+
+cost start 
+0.0862214336362
+
+
+cost finish 
+0.0
+
+
+cost gather 
+0.0
+
+
+cost want 
+0.278271007404
+
+
+cost desire 
+0.0
+
+
+cost wish 
+0.0
+
+
+cost ask 
+0.224856314675
+
+
+cost contain 
+0.139557820032
+
+
+cost include 
+0.0
+
+
+win have 
+0.174528175216
+
+
+win be 
+0.0
+
+
+win buy 
+0.464561079295
+
+
+win give 
+0.0
+
+
+win pick 
+0.0
+
+
+win grow 
+0.0
+
+
+win spend 
+0.0
+
+
+win find 
+0.204105416822
+
+
+win pay 
+0.160401921069
+
+
+win plant 
+0.0
+
+
+win go 
+0.0
+
+
+win play 
+0.0
+
+
+win get 
+0.556862621438
+
+
+win cut 
+0.0
+
+
+win work 
+0.335851045153
+
+
+win sell 
+0.0
+
+
+win purchase 
+0.464561079295
+
+
+win place 
+0.0
+
+
+win miss 
+0.0
+
+
+win make 
+0.175604117391
+
+
+win catch 
+0.11545566752
+
+
+win hold 
+0.0
+
+
+win serve 
+0.0
+
+
+win earn 
+0.461737530584
+
+
+win borrow 
+0.350605622121
+
+
+win save 
+0.0
+
+
+win receive 
+0.499851895228
+
+
+win leave 
+0.0
+
+
+win attend 
+0.0
+
+
+win see 
+0.0
+
+
+win stack 
+0.0
+
+
+win eat 
+0.0
+
+
+win cost 
+0.0
+
+
+win win 
+1.44269504089
+
+
+win lose 
+0.0
+
+
+win do 
+0.0
+
+
+win rent 
+0.199815547649
+
+
+win need 
+0.0
+
+
+win take 
+0.130241686275
+
+
+win stand 
+0.0
+
+
+win end 
+0.0
+
+
+win put 
+0.0
+
+
+win call 
+0.0
+
+
+win break 
+0.0
+
+
+win shine 
+0.0
+
+
+win store 
+0.0
+
+
+win begin 
+0.183412468478
+
+
+win divide 
+0.0
+
+
+win come 
+0.0
+
+
+win fill 
+0.0
+
+
+win clean 
+0.0
+
+
+win add 
+0.0
+
+
+win defeat 
+0.0
+
+
+win crack 
+0.0
+
+
+win decide 
+0.0
+
+
+win split 
+0.0
+
+
+win start 
+0.0
+
+
+win finish 
+0.0
+
+
+win gather 
+0.0
+
+
+win want 
+0.0
+
+
+win desire 
+0.0
+
+
+win wish 
+0.0
+
+
+win ask 
+0.0
+
+
+win contain 
+0.0
+
+
+win include 
+0.0
+
+
+lose have 
+0.138886417645
+
+
+lose be 
+0.0
+
+
+lose buy 
+0.0
+
+
+lose give 
+0.0520525584578
+
+
+lose pick 
+0.0743780692508
+
+
+lose grow 
+0.142817433391
+
+
+lose spend 
+0.0
+
+
+lose find 
+0.0907645321408
+
+
+lose pay 
+0.0
+
+
+lose plant 
+0.336746690046
+
+
+lose go 
+0.195069295236
+
+
+lose play 
+0.0983065214027
+
+
+lose get 
+0.244801651457
+
+
+lose cut 
+0.249831840981
+
+
+lose work 
+0.0893364738845
+
+
+lose sell 
+0.0
+
+
+lose purchase 
+0.0
+
+
+lose place 
+0.414346697597
+
+
+lose miss 
+0.417032391424
+
+
+lose make 
+0.0857038541933
+
+
+lose catch 
+0.114492364102
+
+
+lose hold 
+0.207843091804
+
+
+lose serve 
+0.07518099219
+
+
+lose earn 
+0.0
+
+
+lose borrow 
+0.0
+
+
+lose save 
+0.0770885229316
+
+
+lose receive 
+0.136857570424
+
+
+lose leave 
+0.185418074702
+
+
+lose attend 
+0.0
+
+
+lose see 
+0.118344513986
+
+
+lose stack 
+0.226926473978
+
+
+lose eat 
+0.0
+
+
+lose cost 
+0.0
+
+
+lose win 
+0.0
+
+
+lose lose 
+1.44269504089
+
+
+lose do 
+0.0
+
+
+lose rent 
+0.100086229651
+
+
+lose need 
+0.0
+
+
+lose take 
+0.108729498674
+
+
+lose stand 
+0.111323096419
+
+
+lose end 
+0.0
+
+
+lose put 
+0.414346697597
+
+
+lose call 
+0.11188127319
+
+
+lose break 
+0.130858185487
+
+
+lose shine 
+0.156308488143
+
+
+lose store 
+0.0
+
+
+lose begin 
+0.0
+
+
+lose divide 
+0.132426195509
+
+
+lose come 
+0.100984757283
+
+
+lose fill 
+0.212596943606
+
+
+lose clean 
+0.186191673047
+
+
+lose add 
+0.142936733783
+
+
+lose defeat 
+0.0
+
+
+lose crack 
+0.134188481931
+
+
+lose decide 
+0.0
+
+
+lose split 
+0.15035073869
+
+
+lose start 
+0.0590838094078
+
+
+lose finish 
+0.0
+
+
+lose gather 
+0.100249715518
+
+
+lose want 
+0.120380614467
+
+
+lose desire 
+0.130019847459
+
+
+lose wish 
+0.100198227064
+
+
+lose ask 
+0.207569030171
+
+
+lose contain 
+0.0
+
+
+lose include 
+0.10302267351
+
+
+do have 
+0.150316005172
+
+
+do be 
+0.20382536607
+
+
+do buy 
+0.0
+
+
+do give 
+0.107723752711
+
+
+do pick 
+0.20964401146
+
+
+do grow 
+0.133336014504
+
+
+do spend 
+0.408920573219
+
+
+do find 
+0.11246583481
+
+
+do pay 
+0.186306383427
+
+
+do plant 
+0.297388828161
+
+
+do go 
+0.27153901096
+
+
+do play 
+0.189622371232
+
+
+do get 
+0.201570417314
+
+
+do cut 
+0.218598632574
+
+
+do work 
+0.135260797773
+
+
+do sell 
+0.0
+
+
+do purchase 
+0.0
+
+
+do place 
+0.102170467145
+
+
+do miss 
+0.0
+
+
+do make 
+1.44269504089
+
+
+do catch 
+0.0758088625647
+
+
+do hold 
+0.104498086376
+
+
+do serve 
+0.410394159757
+
+
+do earn 
+0.0
+
+
+do borrow 
+0.0
+
+
+do save 
+0.0
+
+
+do receive 
+0.115998545739
+
+
+do leave 
+0.162328541079
+
+
+do attend 
+0.0
+
+
+do see 
+0.167026390415
+
+
+do stack 
+0.232544566054
+
+
+do eat 
+0.0978371703846
+
+
+do cost 
+0.0
+
+
+do win 
+0.0
+
+
+do lose 
+0.0
+
+
+do do 
+1.44269504089
+
+
+do rent 
+0.0
+
+
+do need 
+0.0
+
+
+do take 
+0.0851541192191
+
+
+do stand 
+0.0
+
+
+do end 
+0.463243682419
+
+
+do put 
+0.197477559862
+
+
+do call 
+0.140754206091
+
+
+do break 
+0.51897422473
+
+
+do shine 
+0.164107777386
+
+
+do store 
+0.0
+
+
+do begin 
+0.0
+
+
+do divide 
+0.0
+
+
+do come 
+0.293205966773
+
+
+do fill 
+0.322159578698
+
+
+do clean 
+0.285488355089
+
+
+do add 
+0.165581718292
+
+
+do defeat 
+0.0
+
+
+do crack 
+0.118041450202
+
+
+do decide 
+0.366227635029
+
+
+do split 
+0.0
+
+
+do start 
+0.137615443885
+
+
+do finish 
+0.693820890588
+
+
+do gather 
+0.0
+
+
+do want 
+0.0
+
+
+do desire 
+0.0
+
+
+do wish 
+0.119802111715
+
+
+do ask 
+0.0
+
+
+do contain 
+0.0
+
+
+do include 
+0.0
+
+
+rent have 
+0.117238617133
+
+
+rent be 
+0.0
+
+
+rent buy 
+0.405873863428
+
+
+rent give 
+0.298392507404
+
+
+rent pick 
+0.197900591789
+
+
+rent grow 
+0.0
+
+
+rent spend 
+0.299141256592
+
+
+rent find 
+0.216227753021
+
+
+rent pay 
+0.514368657534
+
+
+rent plant 
+0.203452631064
+
+
+rent go 
+0.0
+
+
+rent play 
+0.066089926295
+
+
+rent get 
+0.496624146639
+
+
+rent cut 
+0.424146653216
+
+
+rent work 
+0.0778559281692
+
+
+rent sell 
+0.427613700859
+
+
+rent purchase 
+0.405873863428
+
+
+rent place 
+0.249091575894
+
+
+rent miss 
+0.0
+
+
+rent make 
+0.12058803198
+
+
+rent catch 
+0.126154022385
+
+
+rent hold 
+0.106089114177
+
+
+rent serve 
+0.147813120454
+
+
+rent earn 
+0.403155969703
+
+
+rent borrow 
+0.298804965994
+
+
+rent save 
+0.0968178466423
+
+
+rent receive 
+0.440131900166
+
+
+rent leave 
+0.139575866171
+
+
+rent attend 
+0.0
+
+
+rent see 
+0.0
+
+
+rent stack 
+0.144858031272
+
+
+rent eat 
+0.146781691112
+
+
+rent cost 
+0.0
+
+
+rent win 
+0.246227585262
+
+
+rent lose 
+0.110697145657
+
+
+rent do 
+0.0
+
+
+rent rent 
+1.44269504089
+
+
+rent need 
+0.0
+
+
+rent take 
+0.145537289074
+
+
+rent stand 
+0.0747980881139
+
+
+rent end 
+0.0
+
+
+rent put 
+0.249091575894
+
+
+rent call 
+0.108338150947
+
+
+rent break 
+0.0867453046907
+
+
+rent shine 
+0.0
+
+
+rent store 
+0.0
+
+
+rent begin 
+0.0
+
+
+rent divide 
+0.210051992067
+
+
+rent come 
+0.0
+
+
+rent fill 
+0.152422664722
+
+
+rent clean 
+0.122032693575
+
+
+rent add 
+0.299429767568
+
+
+rent defeat 
+0.0
+
+
+rent crack 
+0.0
+
+
+rent decide 
+0.0
+
+
+rent split 
+0.270342428427
+
+
+rent start 
+0.0
+
+
+rent finish 
+0.0
+
+
+rent gather 
+0.0
+
+
+rent want 
+0.11596373714
+
+
+rent desire 
+0.123910543547
+
+
+rent wish 
+0.191357858929
+
+
+rent ask 
+0.191524628236
+
+
+rent contain 
+0.0
+
+
+rent include 
+0.0
+
+
+need have 
+0.0815395222953
+
+
+need be 
+0.475059376605
+
+
+need buy 
+0.126433077381
+
+
+need give 
+0.0
+
+
+need pick 
+0.0
+
+
+need grow 
+0.0
+
+
+need spend 
+0.0
+
+
+need find 
+0.0
+
+
+need pay 
+0.0804309149863
+
+
+need plant 
+0.0
+
+
+need go 
+0.0975652619821
+
+
+need play 
+0.0
+
+
+need get 
+0.0504153745074
+
+
+need cut 
+0.0600653306822
+
+
+need work 
+0.0642972503111
+
+
+need sell 
+0.183563929343
+
+
+need purchase 
+0.0
+
+
+need place 
+0.0919125840038
+
+
+need miss 
+0.0
+
+
+need make 
+0.0522339505585
+
+
+need catch 
+0.0
+
+
+need hold 
+0.0617476863949
+
+
+need serve 
+0.0
+
+
+need earn 
+0.0
+
+
+need borrow 
+0.0
+
+
+need save 
+0.0
+
+
+need receive 
+0.0
+
+
+need leave 
+0.0
+
+
+need attend 
+0.0
+
+
+need see 
+0.0
+
+
+need stack 
+0.0
+
+
+need eat 
+0.0
+
+
+need cost 
+0.508211103933
+
+
+need win 
+0.0
+
+
+need lose 
+0.0
+
+
+need do 
+0.0
+
+
+need rent 
+0.0
+
+
+need need 
+1.44269504089
+
+
+need take 
+0.189279091124
+
+
+need stand 
+0.296035687383
+
+
+need end 
+0.140008107168
+
+
+need put 
+0.0
+
+
+need call 
+0.0
+
+
+need break 
+0.0
+
+
+need shine 
+0.122205438671
+
+
+need store 
+0.0
+
+
+need begin 
+0.0908257122123
+
+
+need divide 
+0.0
+
+
+need come 
+0.0820652609062
+
+
+need fill 
+0.0
+
+
+need clean 
+0.0901664146746
+
+
+need add 
+0.0
+
+
+need defeat 
+0.0
+
+
+need crack 
+0.0
+
+
+need decide 
+0.0
+
+
+need split 
+0.0
+
+
+need start 
+0.0684904873453
+
+
+need finish 
+0.0
+
+
+need gather 
+0.0
+
+
+need want 
+0.558110626551
+
+
+need desire 
+0.0
+
+
+need wish 
+0.0
+
+
+need ask 
+0.276937893409
+
+
+need contain 
+0.108417843246
+
+
+need include 
+0.0
+
+
+take have 
+0.267700638443
+
+
+take be 
+0.215222829481
+
+
+take buy 
+0.271240601557
+
+
+take give 
+0.157196332026
+
+
+take pick 
+0.308472817195
+
+
+take grow 
+0.204536184717
+
+
+take spend 
+0.0
+
+
+take find 
+0.212951677509
+
+
+take pay 
+0.216218303621
+
+
+take plant 
+0.210390736492
+
+
+take go 
+0.232032684462
+
+
+take play 
+0.197758649254
+
+
+take get 
+0.347252991583
+
+
+take cut 
+0.230200494412
+
+
+take work 
+0.320255119426
+
+
+take sell 
+0.117728684712
+
+
+take purchase 
+0.271240601557
+
+
+take place 
+0.269693922379
+
+
+take miss 
+0.0
+
+
+take make 
+0.149292323317
+
+
+take catch 
+0.292380359689
+
+
+take hold 
+0.218843282443
+
+
+take serve 
+0.287231178105
+
+
+take earn 
+0.269067704336
+
+
+take borrow 
+0.253943045642
+
+
+take save 
+0.294124827604
+
+
+take receive 
+0.299131323179
+
+
+take leave 
+0.172226528618
+
+
+take attend 
+0.0
+
+
+take see 
+0.181054730617
+
+
+take stack 
+0.162536223776
+
+
+take eat 
+0.255487151446
+
+
+take cost 
+0.282985818677
+
+
+take win 
+0.258824703785
+
+
+take lose 
+0.165457204841
+
+
+take do 
+0.106631505708
+
+
+take rent 
+0.271085030682
+
+
+take need 
+0.369269373069
+
+
+take take 
+1.44269504089
+
+
+take stand 
+0.138432023366
+
+
+take end 
+0.0881913729341
+
+
+take put 
+0.269693922379
+
+
+take call 
+0.144335972736
+
+
+take break 
+0.171766828501
+
+
+take shine 
+0.0768660811998
+
+
+take store 
+0.24813492187
+
+
+take begin 
+0.114661546917
+
+
+take divide 
+0.189201875337
+
+
+take come 
+0.172049189897
+
+
+take fill 
+0.3001016285
+
+
+take clean 
+0.243954818521
+
+
+take add 
+0.206046523723
+
+
+take defeat 
+0.14897403114
+
+
+take crack 
+0.192005307446
+
+
+take decide 
+0.397287881913
+
+
+take split 
+0.189201875337
+
+
+take start 
+0.140586873754
+
+
+take finish 
+0.184839625639
+
+
+take gather 
+0.225140063593
+
+
+take want 
+0.134287667309
+
+
+take desire 
+0.138689710858
+
+
+take wish 
+0.139071728502
+
+
+take ask 
+0.4696660487
+
+
+take contain 
+0.241363138309
+
+
+take include 
+0.158548312635
+
+
+stand have 
+0.121268395383
+
+
+stand be 
+0.668314054537
+
+
+stand buy 
+0.137015953643
+
+
+stand give 
+0.104282311044
+
+
+stand pick 
+0.0756147221153
+
+
+stand grow 
+0.0
+
+
+stand spend 
+0.0
+
+
+stand find 
+0.132637281029
+
+
+stand pay 
+0.200486358041
+
+
+stand plant 
+0.234270017753
+
+
+stand go 
+0.167037534289
+
+
+stand play 
+0.147400287177
+
+
+stand get 
+0.106771710891
+
+
+stand cut 
+0.174307749347
+
+
+stand work 
+0.0816407469535
+
+
+stand sell 
+0.189254234834
+
+
+stand purchase 
+0.0
+
+
+stand place 
+0.290700380301
+
+
+stand miss 
+0.0
+
+
+stand make 
+0.0888626266149
+
+
+stand catch 
+0.125831987589
+
+
+stand hold 
+0.147055475237
+
+
+stand serve 
+0.176876320139
+
+
+stand earn 
+0.0
+
+
+stand borrow 
+0.0
+
+
+stand save 
+0.0788361486566
+
+
+stand receive 
+0.130293327193
+
+
+stand leave 
+0.0895559379565
+
+
+stand attend 
+0.0
+
+
+stand see 
+0.180821564863
+
+
+stand stack 
+0.184462099875
+
+
+stand eat 
+0.0
+
+
+stand cost 
+0.582790365852
+
+
+stand win 
+0.0
+
+
+stand lose 
+0.158690195283
+
+
+stand do 
+0.0
+
+
+stand rent 
+0.0979109022039
+
+
+stand need 
+0.202075793996
+
+
+stand take 
+0.194066048687
+
+
+stand stand 
+1.44269504089
+
+
+stand end 
+0.134820263156
+
+
+stand put 
+0.290700380301
+
+
+stand call 
+0.12824540085
+
+
+stand break 
+0.0920683417334
+
+
+stand shine 
+0.118815308955
+
+
+stand store 
+0.0
+
+
+stand begin 
+0.108617229688
+
+
+stand divide 
+0.171991841094
+
+
+stand come 
+0.0760227708143
+
+
+stand fill 
+0.0
+
+
+stand clean 
+0.167388766961
+
+
+stand add 
+0.13367635704
+
+
+stand defeat 
+0.208322446957
+
+
+stand crack 
+0.0675690772651
+
+
+stand decide 
+0.0
+
+
+stand split 
+0.122075619316
+
+
+stand start 
+0.0662269701548
+
+
+stand finish 
+0.137613109272
+
+
+stand gather 
+0.168218306784
+
+
+stand want 
+0.202075793996
+
+
+stand desire 
+0.116948329901
+
+
+stand wish 
+0.0980240740179
+
+
+stand ask 
+0.184957616886
+
+
+stand contain 
+0.100922961943
+
+
+stand include 
+0.243661676014
+
+
+end have 
+0.168737933264
+
+
+end be 
+0.349731244399
+
+
+end buy 
+0.116816684209
+
+
+end give 
+0.0
+
+
+end pick 
+0.0
+
+
+end grow 
+0.14730017425
+
+
+end spend 
+0.0
+
+
+end find 
+0.0
+
+
+end pay 
+0.0764913026572
+
+
+end plant 
+0.0
+
+
+end go 
+0.180551496492
+
+
+end play 
+0.0593035684907
+
+
+end get 
+0.231925350307
+
+
+end cut 
+0.259280420249
+
+
+end work 
+0.142926941512
+
+
+end sell 
+0.161251406075
+
+
+end purchase 
+0.0
+
+
+end place 
+0.0869989520144
+
+
+end miss 
+0.0
+
+
+end make 
+0.318774706896
+
+
+end catch 
+0.0
+
+
+end hold 
+0.114381300414
+
+
+end serve 
+0.0
+
+
+end earn 
+0.0
+
+
+end borrow 
+0.0
+
+
+end save 
+0.0
+
+
+end receive 
+0.0973230002808
+
+
+end leave 
+0.182847505974
+
+
+end attend 
+0.0
+
+
+end see 
+0.0
+
+
+end stack 
+0.313482572323
+
+
+end eat 
+0.106076966174
+
+
+end cost 
+0.303168184003
+
+
+end win 
+0.0
+
+
+end lose 
+0.0
+
+
+end do 
+0.375925751775
+
+
+end rent 
+0.0
+
+
+end need 
+0.172528407077
+
+
+end take 
+0.0466590963712
+
+
+end stand 
+0.223931609969
+
+
+end end 
+1.44269504089
+
+
+end put 
+0.232161766544
+
+
+end call 
+0.15303843639
+
+
+end break 
+0.710790722347
+
+
+end shine 
+0.113071405391
+
+
+end store 
+0.0
+
+
+end begin 
+0.0860176865292
+
+
+end divide 
+0.0
+
+
+end come 
+0.077849815087
+
+
+end fill 
+0.446029431225
+
+
+end clean 
+0.390933296892
+
+
+end add 
+0.1868375134
+
+
+end defeat 
+0.0
+
+
+end crack 
+0.0824767710869
+
+
+end decide 
+0.431348736486
+
+
+end split 
+0.0
+
+
+end start 
+0.0651390277535
+
+
+end finish 
+0.855044606807
+
+
+end gather 
+0.0
+
+
+end want 
+0.172528407077
+
+
+end desire 
+0.0
+
+
+end wish 
+0.0
+
+
+end ask 
+0.0
+
+
+end contain 
+0.101899448835
+
+
+end include 
+0.0
+
+
+put have 
+0.16798163744
+
+
+put be 
+0.139808855615
+
+
+put buy 
+0.315936851486
+
+
+put give 
+0.271410775351
+
+
+put pick 
+0.16582383211
+
+
+put grow 
+0.117722453141
+
+
+put spend 
+0.433191128535
+
+
+put find 
+0.135410610532
+
+
+put pay 
+0.496388614943
+
+
+put plant 
+1.07219129986
+
+
+put go 
+0.173986308469
+
+
+put play 
+0.154944516167
+
+
+put get 
+0.174617448181
+
+
+put cut 
+0.819520667259
+
+
+put work 
+0.174184283757
+
+
+put sell 
+0.284346031903
+
+
+put purchase 
+0.0
+
+
+put place 
+1.44269504089
+
+
+put miss 
+0.0
+
+
+put make 
+0.238413998653
+
+
+put catch 
+0.132697517194
+
+
+put hold 
+0.249351454644
+
+
+put serve 
+0.155002447569
+
+
+put earn 
+0.0
+
+
+put borrow 
+0.0
+
+
+put save 
+0.167479621836
+
+
+put receive 
+0.110789025192
+
+
+put leave 
+0.148467476643
+
+
+put attend 
+0.0
+
+
+put see 
+0.154544905587
+
+
+put stack 
+0.383628155081
+
+
+put eat 
+0.250359562339
+
+
+put cost 
+0.0
+
+
+put win 
+0.0
+
+
+put lose 
+0.235374185782
+
+
+put do 
+0.160254533343
+
+
+put rent 
+0.233623066368
+
+
+put need 
+0.0
+
+
+put take 
+0.232325809543
+
+
+put stand 
+0.151040274069
+
+
+put end 
+0.232161766544
+
+
+put put 
+1.44269504089
+
+
+put call 
+0.159213859008
+
+
+put break 
+0.312481421028
+
+
+put shine 
+0.0683064753329
+
+
+put store 
+0.0
+
+
+put begin 
+0.122225715257
+
+
+put divide 
+0.296104526825
+
+
+put come 
+0.0
+
+
+put fill 
+0.345981290205
+
+
+put clean 
+0.311885359289
+
+
+put add 
+0.230320921476
+
+
+put defeat 
+0.177088032993
+
+
+put crack 
+0.0760151623599
+
+
+put decide 
+0.190026621799
+
+
+put split 
+0.251358164264
+
+
+put start 
+0.100842452448
+
+
+put finish 
+0.361054213397
+
+
+put gather 
+0.192260824625
+
+
+put want 
+0.172481620735
+
+
+put desire 
+0.191154741856
+
+
+put wish 
+0.137188635003
+
+
+put ask 
+0.390724516762
+
+
+put contain 
+0.0
+
+
+put include 
+0.188059237033
+
+
+call have 
+0.120077430207
+
+
+call be 
+0.118303413284
+
+
+call buy 
+0.119731130933
+
+
+call give 
+0.13732837782
+
+
+call pick 
+0.0809598001912
+
+
+call grow 
+0.104565767872
+
+
+call spend 
+0.0
+
+
+call find 
+0.163786916498
+
+
+call pay 
+0.20377361041
+
+
+call plant 
+0.229638995249
+
+
+call go 
+0.179830067355
+
+
+call play 
+0.304993316691
+
+
+call get 
+0.141308961235
+
+
+call cut 
+0.249860959405
+
+
+call work 
+0.105161702664
+
+
+call sell 
+0.121184496249
+
+
+call purchase 
+0.0
+
+
+call place 
+0.28951102631
+
+
+call miss 
+0.0
+
+
+call make 
+0.157423039486
+
+
+call catch 
+0.104470689577
+
+
+call hold 
+0.165199486721
+
+
+call serve 
+0.0826581484347
+
+
+call earn 
+0.0
+
+
+call borrow 
+0.0
+
+
+call save 
+0.126499782347
+
+
+call receive 
+0.171538410337
+
+
+call leave 
+0.116706071084
+
+
+call attend 
+0.0
+
+
+call see 
+0.201854473815
+
+
+call stack 
+0.160875483547
+
+
+call eat 
+0.0833473040465
+
+
+call cost 
+0.0
+
+
+call win 
+0.0
+
+
+call lose 
+0.12374267307
+
+
+call do 
+0.234397136038
+
+
+call rent 
+0.108338150947
+
+
+call need 
+0.0
+
+
+call take 
+0.239736861468
+
+
+call stand 
+0.126981943201
+
+
+call end 
+0.27773134444
+
+
+call put 
+0.28951102631
+
+
+call call 
+1.44269504089
+
+
+call break 
+0.244237243468
+
+
+call shine 
+0.0689806819512
+
+
+call store 
+0.0
+
+
+call begin 
+0.211973280896
+
+
+call divide 
+0.194821152047
+
+
+call come 
+0.0
+
+
+call fill 
+0.149650886043
+
+
+call clean 
+0.135703796975
+
+
+call add 
+0.178274221545
+
+
+call defeat 
+0.145114844642
+
+
+call crack 
+0.074749741188
+
+
+call decide 
+0.225570301053
+
+
+call split 
+0.154530204148
+
+
+call start 
+0.140918256182
+
+
+call finish 
+0.28375124705
+
+
+call gather 
+0.19876188664
+
+
+call want 
+0.225175378703
+
+
+call desire 
+0.206383580586
+
+
+call wish 
+0.207769647765
+
+
+call ask 
+0.380668312412
+
+
+call contain 
+0.0
+
+
+call include 
+0.19148991947
+
+
+break have 
+0.195665707914
+
+
+break be 
+0.149887816095
+
+
+break buy 
+0.107510475185
+
+
+break give 
+0.152251543524
+
+
+break pick 
+0.14692388954
+
+
+break grow 
+0.337294533662
+
+
+break spend 
+0.0
+
+
+break find 
+0.150903062574
+
+
+break pay 
+0.163144622535
+
+
+break plant 
+0.0990326246893
+
+
+break go 
+0.224135207586
+
+
+break play 
+0.159159230887
+
+
+break get 
+0.259300019188
+
+
+break cut 
+0.23345270525
+
+
+break work 
+0.13022320058
+
+
+break sell 
+0.116568225217
+
+
+break purchase 
+0.0
+
+
+break place 
+0.21417062164
+
+
+break miss 
+0.0
+
+
+break make 
+0.274955520644
+
+
+break catch 
+0.154976141154
+
+
+break hold 
+0.169222769022
+
+
+break serve 
+0.0878029881213
+
+
+break earn 
+0.0
+
+
+break borrow 
+0.0
+
+
+break save 
+0.199159515776
+
+
+break receive 
+0.224229493657
+
+
+break leave 
+0.381197365962
+
+
+break attend 
+0.0
+
+
+break see 
+0.162665324208
+
+
+break stack 
+0.422755203988
+
+
+break eat 
+0.205021719842
+
+
+break cost 
+0.0
+
+
+break win 
+0.0
+
+
+break lose 
+0.111878530427
+
+
+break do 
+0.31245361724
+
+
+break rent 
+0.153837858851
+
+
+break need 
+0.0
+
+
+break take 
+0.172503979516
+
+
+break stand 
+0.114341727005
+
+
+break end 
+0.485190150057
+
+
+break put 
+0.213301753656
+
+
+break call 
+0.174159848354
+
+
+break break 
+1.44269504089
+
+
+break shine 
+0.12737059015
+
+
+break store 
+0.178394122022
+
+
+break begin 
+0.117058998382
+
+
+break divide 
+0.6682321737
+
+
+break come 
+0.19937327062
+
+
+break fill 
+0.565823530395
+
+
+break clean 
+0.508467372339
+
+
+break add 
+0.339813098633
+
+
+break defeat 
+0.335742024509
+
+
+break crack 
+0.316414620782
+
+
+break decide 
+0.394630111443
+
+
+break split 
+0.6682321737
+
+
+break start 
+0.259799649314
+
+
+break finish 
+1.07251401285
+
+
+break gather 
+0.169759140129
+
+
+break want 
+0.0884593201821
+
+
+break desire 
+0.0846907250073
+
+
+break wish 
+0.0798710560792
+
+
+break ask 
+0.180793492121
+
+
+break contain 
+0.0
+
+
+break include 
+0.139078871141
+
+
+shine have 
+0.109888518053
+
+
+shine be 
+0.288943735303
+
+
+shine buy 
+0.103748694908
+
+
+shine give 
+0.0848831111025
+
+
+shine pick 
+0.0
+
+
+shine grow 
+0.0986838057958
+
+
+shine spend 
+0.0
+
+
+shine find 
+0.0
+
+
+shine pay 
+0.0676228018202
+
+
+shine plant 
+0.0
+
+
+shine go 
+0.165238421474
+
+
+shine play 
+0.0448465013213
+
+
+shine get 
+0.132688071447
+
+
+shine cut 
+0.130036918134
+
+
+shine work 
+0.0975169004437
+
+
+shine sell 
+0.141927143486
+
+
+shine purchase 
+0.0
+
+
+shine place 
+0.0764287036232
+
+
+shine miss 
+0.0
+
+
+shine make 
+0.15083146263
+
+
+shine catch 
+0.0
+
+
+shine hold 
+0.190258122316
+
+
+shine serve 
+0.0
+
+
+shine earn 
+0.0
+
+
+shine borrow 
+0.0
+
+
+shine save 
+0.0
+
+
+shine receive 
+0.0722914474233
+
+
+shine leave 
+0.111637554735
+
+
+shine attend 
+0.0
+
+
+shine see 
+0.0
+
+
+shine stack 
+0.113785801821
+
+
+shine eat 
+0.0778968251038
+
+
+shine cost 
+0.25640748881
+
+
+shine win 
+0.0
+
+
+shine lose 
+0.239614254871
+
+
+shine do 
+0.217886186995
+
+
+shine rent 
+0.0
+
+
+shine need 
+0.150590634332
+
+
+shine take 
+0.0411290895815
+
+
+shine stand 
+0.19734795646
+
+
+shine end 
+0.147139121163
+
+
+shine put 
+0.119707741033
+
+
+shine call 
+0.0628637328682
+
+
+shine break 
+0.135214113385
+
+
+shine shine 
+1.44269504089
+
+
+shine store 
+0.0
+
+
+shine begin 
+0.075670358274
+
+
+shine divide 
+0.0
+
+
+shine come 
+0.228583449052
+
+
+shine fill 
+0.148823742896
+
+
+shine clean 
+0.206898680489
+
+
+shine add 
+0.113454003158
+
+
+shine defeat 
+0.0
+
+
+shine crack 
+0.0625175429332
+
+
+shine decide 
+0.121906446465
+
+
+shine split 
+0.0
+
+
+shine start 
+0.0574934833571
+
+
+shine finish 
+0.154894843021
+
+
+shine gather 
+0.0
+
+
+shine want 
+0.150590634332
+
+
+shine desire 
+0.0
+
+
+shine wish 
+0.0
+
+
+shine ask 
+0.0
+
+
+shine contain 
+0.0888138039788
+
+
+shine include 
+0.0
+
+
+store have 
+1.04343792992
+
+
+store be 
+0.0
+
+
+store buy 
+0.0
+
+
+store give 
+0.0
+
+
+store pick 
+0.0
+
+
+store grow 
+0.0
+
+
+store spend 
+0.0
+
+
+store find 
+0.0
+
+
+store pay 
+0.0
+
+
+store plant 
+0.0
+
+
+store go 
+0.0
+
+
+store play 
+0.0
+
+
+store get 
+0.0
+
+
+store cut 
+0.105154505609
+
+
+store work 
+0.0
+
+
+store sell 
+0.0
+
+
+store purchase 
+0.0
+
+
+store place 
+0.0
+
+
+store miss 
+0.0
+
+
+store make 
+0.0
+
+
+store catch 
+0.137412364418
+
+
+store hold 
+0.255277655222
+
+
+store serve 
+0.0
+
+
+store earn 
+0.0
+
+
+store borrow 
+0.0
+
+
+store save 
+0.486557008356
+
+
+store receive 
+0.0
+
+
+store leave 
+0.0
+
+
+store attend 
+0.0
+
+
+store see 
+0.0
+
+
+store stack 
+0.0
+
+
+store eat 
+0.0
+
+
+store cost 
+0.0
+
+
+store win 
+0.0
+
+
+store lose 
+0.0
+
+
+store do 
+0.0
+
+
+store rent 
+0.0
+
+
+store need 
+0.0
+
+
+store take 
+0.126691211476
+
+
+store stand 
+0.0
+
+
+store end 
+0.0
+
+
+store put 
+0.0
+
+
+store call 
+0.0
+
+
+store break 
+0.0899468141817
+
+
+store shine 
+0.0
+
+
+store store 
+1.44269504089
+
+
+store begin 
+0.0
+
+
+store divide 
+0.0
+
+
+store come 
+0.0
+
+
+store fill 
+0.0
+
+
+store clean 
+0.0
+
+
+store add 
+0.0
+
+
+store defeat 
+0.0
+
+
+store crack 
+0.0
+
+
+store decide 
+0.0
+
+
+store split 
+0.0
+
+
+store start 
+0.0
+
+
+store finish 
+0.0
+
+
+store gather 
+0.0
+
+
+store want 
+0.0
+
+
+store desire 
+0.0
+
+
+store wish 
+0.0
+
+
+store ask 
+0.0
+
+
+store contain 
+0.0
+
+
+store include 
+0.0
+
+
+begin have 
+0.103971742992
+
+
+begin be 
+0.243472274774
+
+
+begin buy 
+0.10620372383
+
+
+begin give 
+0.115055979935
+
+
+begin pick 
+0.0
+
+
+begin grow 
+0.0
+
+
+begin spend 
+0.0
+
+
+begin find 
+0.0
+
+
+begin pay 
+0.186313254633
+
+
+begin plant 
+0.0
+
+
+begin go 
+0.16429633251
+
+
+begin play 
+0.146169381875
+
+
+begin get 
+0.141771864506
+
+
+begin cut 
+0.0814986823475
+
+
+begin work 
+0.249247335841
+
+
+begin sell 
+0.134245868694
+
+
+begin purchase 
+0.0
+
+
+begin place 
+0.121451128437
+
+
+begin miss 
+0.0
+
+
+begin make 
+0.160236415547
+
+
+begin catch 
+0.0
+
+
+begin hold 
+0.0608053039797
+
+
+begin serve 
+0.0
+
+
+begin earn 
+0.0
+
+
+begin borrow 
+0.0
+
+
+begin save 
+0.0
+
+
+begin receive 
+0.0
+
+
+begin leave 
+0.0959873596786
+
+
+begin attend 
+0.0
+
+
+begin see 
+0.122113903573
+
+
+begin stack 
+0.0
+
+
+begin eat 
+0.0
+
+
+begin cost 
+0.21169918261
+
+
+begin win 
+0.253143543857
+
+
+begin lose 
+0.0
+
+
+begin do 
+0.0
+
+
+begin rent 
+0.0
+
+
+begin need 
+0.143484970304
+
+
+begin take 
+0.201847255036
+
+
+begin stand 
+0.157183623679
+
+
+begin end 
+0.117244914172
+
+
+begin put 
+0.14030926545
+
+
+begin call 
+0.15965428774
+
+
+begin break 
+0.0951717230993
+
+
+begin shine 
+0.102751262869
+
+
+begin store 
+0.0
+
+
+begin begin 
+1.44269504089
+
+
+begin divide 
+0.0
+
+
+begin come 
+0.0780402356787
+
+
+begin fill 
+0.0
+
+
+begin clean 
+0.0833290464057
+
+
+begin add 
+0.0
+
+
+begin defeat 
+0.0
+
+
+begin crack 
+0.070365518533
+
+
+begin decide 
+0.0
+
+
+begin split 
+0.0
+
+
+begin start 
+1.44269504089
+
+
+begin finish 
+0.13702354951
+
+
+begin gather 
+0.181563844516
+
+
+begin want 
+0.143484970304
+
+
+begin desire 
+0.0
+
+
+begin wish 
+0.0
+
+
+begin ask 
+0.225911986255
+
+
+begin contain 
+0.0996279621902
+
+
+begin include 
+0.10428084361
+
+
+divide have 
+0.179546894761
+
+
+divide be 
+0.0
+
+
+divide buy 
+0.108169343686
+
+
+divide give 
+0.101922902239
+
+
+divide pick 
+0.0881538959585
+
+
+divide grow 
+0.481086404241
+
+
+divide spend 
+0.0
+
+
+divide find 
+0.123618139965
+
+
+divide pay 
+0.111210667863
+
+
+divide plant 
+0.233856770008
+
+
+divide go 
+0.136890579566
+
+
+divide play 
+0.0821489153816
+
+
+divide get 
+0.230241969613
+
+
+divide cut 
+0.497066064914
+
+
+divide work 
+0.0968472850605
+
+
+divide sell 
+0.0
+
+
+divide purchase 
+0.0
+
+
+divide place 
+0.303206499744
+
+
+divide miss 
+0.0
+
+
+divide make 
+0.0922796546124
+
+
+divide catch 
+0.115169919362
+
+
+divide hold 
+0.115315232722
+
+
+divide serve 
+0.0909948816843
+
+
+divide earn 
+0.0
+
+
+divide borrow 
+0.0
+
+
+divide save 
+0.0929553618813
+
+
+divide receive 
+0.222765006941
+
+
+divide leave 
+0.0864945049852
+
+
+divide attend 
+0.0
+
+
+divide see 
+0.151643150926
+
+
+divide stack 
+0.167285527707
+
+
+divide eat 
+0.0
+
+
+divide cost 
+0.0
+
+
+divide win 
+0.0
+
+
+divide lose 
+0.133602453316
+
+
+divide do 
+0.0
+
+
+divide rent 
+0.227153790578
+
+
+divide need 
+0.0
+
+
+divide take 
+0.123321787038
+
+
+divide stand 
+0.108870506987
+
+
+divide end 
+0.0
+
+
+divide put 
+0.303206499744
+
+
+divide call 
+0.134311093195
+
+
+divide break 
+0.456139421122
+
+
+divide shine 
+0.0
+
+
+divide store 
+0.0
+
+
+divide begin 
+0.0
+
+
+divide divide 
+1.44269504089
+
+
+divide come 
+0.121088736276
+
+
+divide fill 
+0.199373941413
+
+
+divide clean 
+0.144280197121
+
+
+divide add 
+0.484316662484
+
+
+divide defeat 
+0.202484411146
+
+
+divide crack 
+0.454119149109
+
+
+divide decide 
+0.0
+
+
+divide split 
+1.44269504089
+
+
+divide start 
+0.0647242325681
+
+
+divide finish 
+0.0
+
+
+divide gather 
+0.128049959101
+
+
+divide want 
+0.14147568509
+
+
+divide desire 
+0.146982643589
+
+
+divide wish 
+0.117533501773
+
+
+divide ask 
+0.237242505396
+
+
+divide contain 
+0.0
+
+
+divide include 
+0.213570201968
+
+
+come have 
+0.201699246236
+
+
+come be 
+0.228427624341
+
+
+come buy 
+0.104586039405
+
+
+come give 
+0.0981786934817
+
+
+come pick 
+0.0
+
+
+come grow 
+0.253476571911
+
+
+come spend 
+0.0
+
+
+come find 
+0.188910312024
+
+
+come pay 
+0.0811509944887
+
+
+come plant 
+0.0
+
+
+come go 
+1.05850530338
+
+
+come play 
+0.112358384767
+
+
+come get 
+0.303413075542
+
+
+come cut 
+0.0869515810855
+
+
+come work 
+0.145336031218
+
+
+come sell 
+0.129117775103
+
+
+come purchase 
+0.0
+
+
+come place 
+0.224031487226
+
+
+come miss 
+0.0
+
+
+come make 
+0.147809846235
+
+
+come catch 
+0.0937312890638
+
+
+come hold 
+0.0956366330269
+
+
+come serve 
+0.0
+
+
+come earn 
+0.0
+
+
+come borrow 
+0.0
+
+
+come save 
+0.0
+
+
+come receive 
+0.21455090232
+
+
+come leave 
+0.084732673673
+
+
+come attend 
+0.202488288904
+
+
+come see 
+0.22582822606
+
+
+come stack 
+0.0
+
+
+come eat 
+0.0
+
+
+come cost 
+0.197090647765
+
+
+come win 
+0.0
+
+
+come lose 
+0.0731674342934
+
+
+come do 
+0.281266414063
+
+
+come rent 
+0.0
+
+
+come need 
+0.138365402797
+
+
+come take 
+0.108121373346
+
+
+come stand 
+0.144431520557
+
+
+come end 
+0.115534731475
+
+
+come put 
+0.0
+
+
+come call 
+0.0
+
+
+come break 
+0.177018368584
+
+
+come shine 
+0.156704912582
+
+
+come store 
+0.0
+
+
+come begin 
+0.0900441312132
+
+
+come divide 
+0.205955741692
+
+
+come come 
+1.44269504089
+
+
+come fill 
+0.165070602084
+
+
+come clean 
+0.0859135269426
+
+
+come add 
+0.223849240542
+
+
+come defeat 
+0.0
+
+
+come crack 
+0.208938640776
+
+
+come decide 
+0.0
+
+
+come split 
+0.205955741692
+
+
+come start 
+0.0720424918868
+
+
+come finish 
+0.0
+
+
+come gather 
+0.122275692877
+
+
+come want 
+0.138365402797
+
+
+come desire 
+0.0
+
+
+come wish 
+0.226282559916
+
+
+come ask 
+0.0
+
+
+come contain 
+0.104555795172
+
+
+come include 
+0.125944907883
+
+
+fill have 
+0.179138976821
+
+
+fill be 
+0.241594809904
+
+
+fill buy 
+0.215683154504
+
+
+fill give 
+0.263390942713
+
+
+fill pick 
+0.170780846194
+
+
+fill grow 
+0.314387396118
+
+
+fill spend 
+0.259716023538
+
+
+fill find 
+0.0995906326533
+
+
+fill pay 
+0.336964535065
+
+
+fill plant 
+0.155752383997
+
+
+fill go 
+0.230892576422
+
+
+fill play 
+0.0541295666291
+
+
+fill get 
+0.372463711485
+
+
+fill cut 
+0.261124875999
+
+
+fill work 
+0.427006825901
+
+
+fill sell 
+0.277939561333
+
+
+fill purchase 
+0.0
+
+
+fill place 
+0.105645484412
+
+
+fill miss 
+0.0
+
+
+fill make 
+0.31416760378
+
+
+fill catch 
+0.0883257567573
+
+
+fill hold 
+0.104314821557
+
+
+fill serve 
+0.38297490414
+
+
+fill earn 
+0.0
+
+
+fill borrow 
+0.0
+
+
+fill save 
+0.10094042673
+
+
+fill receive 
+0.20781241513
+
+
+fill leave 
+0.17318545324
+
+
+fill attend 
+0.31498574829
+
+
+fill see 
+0.151078118835
+
+
+fill stack 
+1.04504468762
+
+
+fill eat 
+0.437082984313
+
+
+fill cost 
+0.0
+
+
+fill win 
+0.0
+
+
+fill lose 
+0.123403499311
+
+
+fill do 
+0.193959393157
+
+
+fill rent 
+0.228633997082
+
+
+fill need 
+0.0
+
+
+fill take 
+0.200111571255
+
+
+fill stand 
+0.0
+
+
+fill end 
+0.304462452677
+
+
+fill put 
+0.23616897187
+
+
+fill call 
+0.0768989033618
+
+
+fill break 
+0.565823530395
+
+
+fill shine 
+0.121513844915
+
+
+fill store 
+0.0
+
+
+fill begin 
+0.0
+
+
+fill divide 
+0.292077544892
+
+
+fill come 
+0.118757964731
+
+
+fill fill 
+1.44269504089
+
+
+fill clean 
+0.564590800676
+
+
+fill add 
+0.316574375182
+
+
+fill defeat 
+0.0
+
+
+fill crack 
+0.296170682566
+
+
+fill decide 
+0.241407596936
+
+
+fill split 
+0.292077544892
+
+
+fill start 
+0.0615429514184
+
+
+fill finish 
+0.668580746839
+
+
+fill gather 
+0.126832601903
+
+
+fill want 
+0.0
+
+
+fill desire 
+0.0
+
+
+fill wish 
+0.0
+
+
+fill ask 
+0.0
+
+
+fill contain 
+0.0
+
+
+fill include 
+0.130519928108
+
+
+clean have 
+0.132716026986
+
+
+clean be 
+0.227895071596
+
+
+clean buy 
+0.0989001588075
+
+
+clean give 
+0.0488045571209
+
+
+clean pick 
+0.274907577742
+
+
+clean grow 
+0.123268287965
+
+
+clean spend 
+0.0
+
+
+clean find 
+0.0
+
+
+clean pay 
+0.0678443934266
+
+
+clean plant 
+0.371842337386
+
+
+clean go 
+0.0803683009943
+
+
+clean play 
+0.0936428642739
+
+
+clean get 
+0.187789641033
+
+
+clean cut 
+0.274806932609
+
+
+clean work 
+0.116375665598
+
+
+clean sell 
+0.127365231774
+
+
+clean purchase 
+0.0
+
+
+clean place 
+0.452433939159
+
+
+clean miss 
+0.0
+
+
+clean make 
+0.274279814105
+
+
+clean catch 
+0.0906833338612
+
+
+clean hold 
+0.0937698043722
+
+
+clean serve 
+0.0717160374232
+
+
+clean earn 
+0.0
+
+
+clean borrow 
+0.0
+
+
+clean save 
+0.0736143998145
+
+
+clean receive 
+0.0813026038163
+
+
+clean leave 
+0.155366029181
+
+
+clean attend 
+0.0
+
+
+clean see 
+0.0
+
+
+clean stack 
+0.422066673637
+
+
+clean eat 
+0.0891588241221
+
+
+clean cost 
+0.201792267345
+
+
+clean win 
+0.0
+
+
+clean lose 
+0.162194637256
+
+
+clean do 
+0.171881116589
+
+
+clean rent 
+0.0966481119177
+
+
+clean need 
+0.135249622012
+
+
+clean take 
+0.188874353821
+
+
+clean stand 
+0.154700320096
+
+
+clean end 
+0.266853490089
+
+
+clean put 
+0.452433939159
+
+
+clean call 
+0.107475426244
+
+
+clean break 
+0.508467372339
+
+
+clean shine 
+0.145141933412
+
+
+clean store 
+0.0
+
+
+clean begin 
+0.0756478161497
+
+
+clean divide 
+0.106649772699
+
+
+clean come 
+0.0686286217479
+
+
+clean fill 
+0.564590800676
+
+
+clean clean 
+1.44269504089
+
+
+clean add 
+0.158121223885
+
+
+clean defeat 
+0.0
+
+
+clean crack 
+0.0694527432352
+
+
+clean decide 
+0.21714257734
+
+
+clean split 
+0.154026772199
+
+
+clean start 
+0.0577137423579
+
+
+clean finish 
+0.589947982276
+
+
+clean gather 
+0.0
+
+
+clean want 
+0.135249622012
+
+
+clean desire 
+0.128306784796
+
+
+clean wish 
+0.0967514534442
+
+
+clean ask 
+0.209350779078
+
+
+clean contain 
+0.0882532990387
+
+
+clean include 
+0.0
+
+
+add have 
+0.198273726482
+
+
+add be 
+0.152965679606
+
+
+add buy 
+0.109989057453
+
+
+add give 
+0.199334979149
+
+
+add pick 
+0.213320623308
+
+
+add grow 
+0.523156308585
+
+
+add spend 
+0.0
+
+
+add find 
+0.286393120648
+
+
+add pay 
+0.114526585419
+
+
+add plant 
+0.0
+
+
+add go 
+0.143626114542
+
+
+add play 
+0.064480846134
+
+
+add get 
+0.252835739193
+
+
+add cut 
+0.199901803349
+
+
+add work 
+0.118100426425
+
+
+add sell 
+0.0
+
+
+add purchase 
+0.0
+
+
+add place 
+0.1670138235
+
+
+add miss 
+0.0
+
+
+add make 
+0.236926863881
+
+
+add catch 
+0.0869968003177
+
+
+add hold 
+0.117557020624
+
+
+add serve 
+0.0
+
+
+add earn 
+0.0
+
+
+add borrow 
+0.0
+
+
+add save 
+0.0
+
+
+add receive 
+0.243847981051
+
+
+add leave 
+0.149104148985
+
+
+add attend 
+0.0
+
+
+add see 
+0.165586073287
+
+
+add stack 
+0.217152149423
+
+
+add eat 
+0.0906897913283
+
+
+add cost 
+0.0
+
+
+add win 
+0.0
+
+
+add lose 
+0.0746868529584
+
+
+add do 
+0.165581718292
+
+
+add rent 
+0.438656680801
+
+
+add need 
+0.0
+
+
+add take 
+0.113313342829
+
+
+add stand 
+0.11201214346
+
+
+add end 
+0.230235085819
+
+
+add put 
+0.192994039256
+
+
+add call 
+0.108520231422
+
+
+add break 
+0.263167082767
+
+
+add shine 
+0.0720772217942
+
+
+add store 
+0.0
+
+
+add begin 
+0.0
+
+
+add divide 
+0.484316662484
+
+
+add come 
+0.127160016083
+
+
+add fill 
+0.293352614447
+
+
+add clean 
+0.262633668011
+
+
+add add 
+1.44269504089
+
+
+add defeat 
+0.181377578751
+
+
+add crack 
+0.49142194055
+
+
+add decide 
+0.185851697284
+
+
+add split 
+0.484316662484
+
+
+add start 
+0.0644900559594
+
+
+add finish 
+0.307067998738
+
+
+add gather 
+0.269157431134
+
+
+add want 
+0.0
+
+
+add desire 
+0.0
+
+
+add wish 
+0.206462819947
+
+
+add ask 
+0.0
+
+
+add contain 
+0.0
+
+
+add include 
+0.388858143969
+
+
+defeat have 
+0.0
+
+
+defeat be 
+0.0
+
+
+defeat buy 
+0.130873589371
+
+
+defeat give 
+0.0884595352588
+
+
+defeat pick 
+0.0
+
+
+defeat grow 
+0.0
+
+
+defeat spend 
+0.0
+
+
+defeat find 
+0.125029193108
+
+
+defeat pay 
+0.112470997987
+
+
+defeat plant 
+0.0
+
+
+defeat go 
+0.0
+
+
+defeat play 
+0.0626262692939
+
+
+defeat get 
+0.0
+
+
+defeat cut 
+0.0
+
+
+defeat work 
+0.0
+
+
+defeat sell 
+0.0
+
+
+defeat purchase 
+0.0
+
+
+defeat place 
+0.207157122073
+
+
+defeat miss 
+0.0
+
+
+defeat make 
+0.0665351646772
+
+
+defeat catch 
+0.0
+
+
+defeat hold 
+0.139611356724
+
+
+defeat serve 
+0.0
+
+
+defeat earn 
+0.0
+
+
+defeat borrow 
+0.0
+
+
+defeat save 
+0.0
+
+
+defeat receive 
+0.122375059031
+
+
+defeat leave 
+0.0
+
+
+defeat attend 
+0.0
+
+
+defeat see 
+0.1682372692
+
+
+defeat stack 
+0.0
+
+
+defeat eat 
+0.0
+
+
+defeat cost 
+0.0
+
+
+defeat win 
+0.0
+
+
+defeat lose 
+0.0
+
+
+defeat do 
+0.0
+
+
+defeat rent 
+0.0
+
+
+defeat need 
+0.0
+
+
+defeat take 
+0.0820892320754
+
+
+defeat stand 
+0.131867711124
+
+
+defeat end 
+0.0
+
+
+defeat put 
+0.112096386728
+
+
+defeat call 
+0.07665566866
+
+
+defeat break 
+0.172093733967
+
+
+defeat shine 
+0.0
+
+
+defeat store 
+0.0
+
+
+defeat begin 
+0.0
+
+
+defeat divide 
+0.202484411146
+
+
+defeat come 
+0.0
+
+
+defeat fill 
+0.0
+
+
+defeat clean 
+0.0
+
+
+defeat add 
+0.130489813622
+
+
+defeat defeat 
+1.44269504089
+
+
+defeat crack 
+0.0
+
+
+defeat decide 
+0.0
+
+
+defeat split 
+0.0
+
+
+defeat start 
+0.0
+
+
+defeat finish 
+0.0
+
+
+defeat gather 
+0.120052864217
+
+
+defeat want 
+0.0
+
+
+defeat desire 
+0.0
+
+
+defeat wish 
+0.0
+
+
+defeat ask 
+0.0
+
+
+defeat contain 
+0.0
+
+
+defeat include 
+0.258586837059
+
+
+crack have 
+0.210220434701
+
+
+crack be 
+0.100233699016
+
+
+crack buy 
+0.0
+
+
+crack give 
+0.0942664008663
+
+
+crack pick 
+0.104532075608
+
+
+crack grow 
+0.488096531967
+
+
+crack spend 
+0.0
+
+
+crack find 
+0.126759605562
+
+
+crack pay 
+0.12699605341
+
+
+crack plant 
+0.0
+
+
+crack go 
+0.288661660313
+
+
+crack play 
+0.106990687186
+
+
+crack get 
+0.233976208374
+
+
+crack cut 
+0.161381685603
+
+
+crack work 
+0.167225700468
+
+
+crack sell 
+0.095495538497
+
+
+crack purchase 
+0.0
+
+
+crack place 
+0.0570074844621
+
+
+crack miss 
+0.0
+
+
+crack make 
+0.150321807961
+
+
+crack catch 
+0.291502058611
+
+
+crack hold 
+0.121525962973
+
+
+crack serve 
+0.0
+
+
+crack earn 
+0.0
+
+
+crack borrow 
+0.0
+
+
+crack save 
+0.0
+
+
+crack receive 
+0.226258809513
+
+
+crack leave 
+0.111772670715
+
+
+crack attend 
+0.0
+
+
+crack see 
+0.166944281266
+
+
+crack stack 
+0.111496054036
+
+
+crack eat 
+0.0787703140106
+
+
+crack cost 
+0.0
+
+
+crack win 
+0.0
+
+
+crack lose 
+0.0701157438921
+
+
+crack do 
+0.12281808202
+
+
+crack rent 
+0.0
+
+
+crack need 
+0.0
+
+
+crack take 
+0.128217606835
+
+
+crack stand 
+0.0818229803678
+
+
+crack end 
+0.14656058715
+
+
+crack put 
+0.119652565065
+
+
+crack call 
+0.109581267826
+
+
+crack break 
+0.343707855131
+
+
+crack shine 
+0.0647167222489
+
+
+crack store 
+0.0
+
+
+crack begin 
+0.097175080073
+
+
+crack divide 
+0.454119149109
+
+
+crack come 
+0.243037505335
+
+
+crack fill 
+0.202167942545
+
+
+crack clean 
+0.132635541832
+
+
+crack add 
+0.49142194055
+
+
+crack defeat 
+0.0
+
+
+crack crack 
+1.44269504089
+
+
+crack decide 
+0.120968493631
+
+
+crack split 
+0.454119149109
+
+
+crack start 
+0.0604128211468
+
+
+crack finish 
+0.15262886032
+
+
+crack gather 
+0.130745195026
+
+
+crack want 
+0.0
+
+
+crack desire 
+0.0
+
+
+crack wish 
+0.1003752823
+
+
+crack ask 
+0.135366416139
+
+
+crack contain 
+0.0
+
+
+crack include 
+0.133397526047
+
+
+decide have 
+0.130154747692
+
+
+decide be 
+0.0
+
+
+decide buy 
+0.0
+
+
+decide give 
+0.0799874681574
+
+
+decide pick 
+1.00423964988
+
+
+decide grow 
+0.120054628672
+
+
+decide spend 
+0.0
+
+
+decide find 
+0.0814770271713
+
+
+decide pay 
+0.0
+
+
+decide plant 
+0.218310708592
+
+
+decide go 
+0.123328165076
+
+
+decide play 
+0.132907729445
+
+
+decide get 
+0.17889389107
+
+
+decide cut 
+0.207817808277
+
+
+decide work 
+0.114241404964
+
+
+decide sell 
+0.190382280956
+
+
+decide purchase 
+0.0
+
+
+decide place 
+0.0739452254246
+
+
+decide miss 
+0.0
+
+
+decide make 
+0.244373851137
+
+
+decide catch 
+0.0545449366546
+
+
+decide hold 
+0.0922636271635
+
+
+decide serve 
+0.207358492573
+
+
+decide earn 
+0.0
+
+
+decide borrow 
+0.0
+
+
+decide save 
+0.0
+
+
+decide receive 
+0.0799468121562
+
+
+decide leave 
+0.148209367715
+
+
+decide attend 
+0.0
+
+
+decide see 
+0.120280680212
+
+
+decide stack 
+0.264860384758
+
+
+decide eat 
+0.087980960892
+
+
+decide cost 
+0.0
+
+
+decide win 
+0.0
+
+
+decide lose 
+0.0
+
+
+decide do 
+0.29719649559
+
+
+decide rent 
+0.0
+
+
+decide need 
+0.0
+
+
+decide take 
+0.206420337346
+
+
+decide stand 
+0.0
+
+
+decide end 
+0.431348736486
+
+
+decide put 
+0.190026621799
+
+
+decide call 
+0.124296111549
+
+
+decide break 
+0.578122663742
+
+
+decide shine 
+0.0695610793965
+
+
+decide store 
+0.0
+
+
+decide begin 
+0.0
+
+
+decide divide 
+0.0
+
+
+decide come 
+0.0
+
+
+decide fill 
+0.353655737211
+
+
+decide clean 
+0.318108126024
+
+
+decide add 
+0.150820057934
+
+
+decide defeat 
+0.0
+
+
+decide crack 
+0.0680748552657
+
+
+decide decide 
+1.44269504089
+
+
+decide split 
+0.0
+
+
+decide start 
+0.100832389744
+
+
+decide finish 
+0.670069512029
+
+
+decide gather 
+0.0
+
+
+decide want 
+0.0
+
+
+decide desire 
+0.0
+
+
+decide wish 
+0.0
+
+
+decide ask 
+0.0
+
+
+decide contain 
+0.0
+
+
+decide include 
+0.0
+
+
+split have 
+0.178609497633
+
+
+split be 
+0.0
+
+
+split buy 
+0.0
+
+
+split give 
+0.0977573008608
+
+
+split pick 
+0.0682229618721
+
+
+split grow 
+0.481086404241
+
+
+split spend 
+0.0
+
+
+split find 
+0.0966987528447
+
+
+split pay 
+0.0
+
+
+split plant 
+0.306011780098
+
+
+split go 
+0.242952458029
+
+
+split play 
+0.0611646859689
+
+
+split get 
+0.230241969613
+
+
+split cut 
+0.634146846641
+
+
+split work 
+0.0722850722009
+
+
+split sell 
+0.0
+
+
+split purchase 
+0.0
+
+
+split place 
+0.368233054862
+
+
+split miss 
+0.0
+
+
+split make 
+0.0529607017642
+
+
+split catch 
+0.0863977834351
+
+
+split hold 
+0.0578040415485
+
+
+split serve 
+0.0682302931929
+
+
+split earn 
+0.0
+
+
+split borrow 
+0.0
+
+
+split save 
+0.0701121356113
+
+
+split receive 
+0.222765006941
+
+
+split leave 
+0.190806539677
+
+
+split attend 
+0.0
+
+
+split see 
+0.151643150926
+
+
+split stack 
+0.165456380088
+
+
+split eat 
+0.0
+
+
+split cost 
+0.0
+
+
+split win 
+0.0
+
+
+split lose 
+0.108167944487
+
+
+split do 
+0.0
+
+
+split rent 
+0.180228285618
+
+
+split need 
+0.0
+
+
+split take 
+0.104049787284
+
+
+split stand 
+0.0696576111749
+
+
+split end 
+0.0
+
+
+split put 
+0.368233054862
+
+
+split call 
+0.103020136099
+
+
+split break 
+0.456139421122
+
+
+split shine 
+0.0
+
+
+split store 
+0.0
+
+
+split begin 
+0.0
+
+
+split divide 
+1.44269504089
+
+
+split come 
+0.116995417821
+
+
+split fill 
+0.199373941413
+
+
+split clean 
+0.124993890538
+
+
+split add 
+0.484316662484
+
+
+split defeat 
+0.0
+
+
+split crack 
+0.454119149109
+
+
+split decide 
+0.0
+
+
+split split 
+1.44269504089
+
+
+split start 
+0.146690626418
+
+
+split finish 
+0.0
+
+
+split gather 
+0.128049959101
+
+
+split want 
+0.112925640299
+
+
+split desire 
+0.12678204219
+
+
+split wish 
+0.0932236298992
+
+
+split ask 
+0.214030272815
+
+
+split contain 
+0.0
+
+
+split include 
+0.13165581869
+
+
+start have 
+0.133570691961
+
+
+start be 
+0.193612710417
+
+
+start buy 
+0.0967177128681
+
+
+start give 
+0.093999018416
+
+
+start pick 
+0.108321909307
+
+
+start grow 
+0.131725157666
+
+
+start spend 
+0.0
+
+
+start find 
+0.0906426331475
+
+
+start pay 
+0.120686120985
+
+
+start plant 
+0.147451269325
+
+
+start go 
+0.214595301431
+
+
+start play 
+0.318899182476
+
+
+start get 
+0.141771864506
+
+
+start cut 
+0.197472231194
+
+
+start work 
+0.0806672402043
+
+
+start sell 
+0.114936455692
+
+
+start purchase 
+0.0
+
+
+start place 
+0.116972042274
+
+
+start miss 
+0.0
+
+
+start make 
+0.205241906821
+
+
+start catch 
+0.0928522027055
+
+
+start hold 
+0.0604798142776
+
+
+start serve 
+0.139366212564
+
+
+start earn 
+0.0
+
+
+start borrow 
+0.0
+
+
+start save 
+0.0
+
+
+start receive 
+0.126021235447
+
+
+start leave 
+0.640213477952
+
+
+start attend 
+0.0
+
+
+start see 
+0.130213050322
+
+
+start stack 
+0.0
+
+
+start eat 
+0.0
+
+
+start cost 
+0.167294187251
+
+
+start win 
+0.0
+
+
+start lose 
+0.067865572913
+
+
+start do 
+0.154903398244
+
+
+start rent 
+0.0
+
+
+start need 
+0.123108646991
+
+
+start take 
+0.127110485329
+
+
+start stand 
+0.122895747401
+
+
+start end 
+0.106772715072
+
+
+start put 
+0.102513616277
+
+
+start call 
+0.126702794746
+
+
+start break 
+0.182301479998
+
+
+start shine 
+0.0935736222848
+
+
+start store 
+0.0
+
+
+start begin 
+1.44269504089
+
+
+start divide 
+0.116262675988
+
+
+start come 
+0.0988939803999
+
+
+start fill 
+0.11259989656
+
+
+start clean 
+0.079978685437
+
+
+start add 
+0.125815283621
+
+
+start defeat 
+0.0
+
+
+start crack 
+0.117860902954
+
+
+start decide 
+0.111522411957
+
+
+start split 
+0.185745712718
+
+
+start start 
+1.44269504089
+
+
+start finish 
+0.103432968005
+
+
+start gather 
+0.125575721248
+
+
+start want 
+0.123108646991
+
+
+start desire 
+0.0
+
+
+start wish 
+0.0
+
+
+start ask 
+0.12134552802
+
+
+start contain 
+0.0956222804944
+
+
+start include 
+0.0979843573084
+
+
+finish have 
+0.175581852218
+
+
+finish be 
+0.0833858391772
+
+
+finish buy 
+0.0
+
+
+finish give 
+0.0918040702777
+
+
+finish pick 
+0.167932986555
+
+
+finish grow 
+0.143136525444
+
+
+finish spend 
+0.0
+
+
+finish find 
+0.0
+
+
+finish pay 
+0.168868223926
+
+
+finish plant 
+0.0
+
+
+finish go 
+0.18014125079
+
+
+finish play 
+0.156191516136
+
+
+finish get 
+0.226759739009
+
+
+finish cut 
+0.273761249401
+
+
+finish work 
+0.137024894097
+
+
+finish sell 
+0.100885142869
+
+
+finish purchase 
+0.0
+
+
+finish place 
+0.051601381483
+
+
+finish miss 
+0.0
+
+
+finish make 
+0.332640669504
+
+
+finish catch 
+0.0
+
+
+finish hold 
+0.109209637753
+
+
+finish serve 
+0.0
+
+
+finish earn 
+0.0
+
+
+finish borrow 
+0.0
+
+
+finish save 
+0.0
+
+
+finish receive 
+0.100430359139
+
+
+finish leave 
+0.181118077831
+
+
+finish attend 
+0.0
+
+
+finish see 
+0.0541753770533
+
+
+finish stack 
+0.47759933176
+
+
+finish eat 
+0.496893908519
+
+
+finish cost 
+0.0
+
+
+finish win 
+0.0
+
+
+finish lose 
+0.0
+
+
+finish do 
+0.417721799371
+
+
+finish rent 
+0.0
+
+
+finish need 
+0.0
+
+
+finish take 
+0.27078515714
+
+
+finish stand 
+0.0917420728478
+
+
+finish end 
+0.721347520444
+
+
+finish put 
+0.24645784261
+
+
+finish call 
+0.145807086764
+
+
+finish break 
+1.07251401285
+
+
+finish shine 
+0.0804792877036
+
+
+finish store 
+0.0
+
+
+finish begin 
+0.0985798661574
+
+
+finish divide 
+0.0
+
+
+finish come 
+0.0
+
+
+finish fill 
+0.668580746839
+
+
+finish clean 
+0.589947982276
+
+
+finish add 
+0.184873356657
+
+
+finish defeat 
+0.0
+
+
+finish crack 
+0.0789481283341
+
+
+finish decide 
+0.457393599647
+
+
+finish split 
+0.0
+
+
+finish start 
+0.0569947181389
+
+
+finish finish 
+1.44269504089
+
+
+finish gather 
+0.174894296508
+
+
+finish want 
+0.0
+
+
+finish desire 
+0.0
+
+
+finish wish 
+0.0
+
+
+finish ask 
+0.259837691882
+
+
+finish contain 
+0.0
+
+
+finish include 
+0.0992961096289
+
+
+gather have 
+0.154593065819
+
+
+gather be 
+0.117626785096
+
+
+gather buy 
+0.101337915174
+
+
+gather give 
+0.123223963367
+
+
+gather pick 
+0.554482180901
+
+
+gather grow 
+0.353067007354
+
+
+gather spend 
+0.0
+
+
+gather find 
+0.23346923033
+
+
+gather pay 
+0.226663281659
+
+
+gather plant 
+0.291176878209
+
+
+gather go 
+0.213954713194
+
+
+gather play 
+0.187818974042
+
+
+gather get 
+0.179043636622
+
+
+gather cut 
+0.136997357733
+
+
+gather work 
+0.0801927715835
+
+
+gather sell 
+0.134328438431
+
+
+gather purchase 
+0.0
+
+
+gather place 
+0.152004585659
+
+
+gather miss 
+0.0
+
+
+gather make 
+0.154496016817
+
+
+gather catch 
+0.158151601102
+
+
+gather hold 
+0.107727607379
+
+
+gather serve 
+0.094435347315
+
+
+gather earn 
+0.0
+
+
+gather borrow 
+0.0
+
+
+gather save 
+0.0
+
+
+gather receive 
+0.173566334608
+
+
+gather leave 
+0.104246491099
+
+
+gather attend 
+0.0
+
+
+gather see 
+0.132572320122
+
+
+gather stack 
+0.0
+
+
+gather eat 
+0.0
+
+
+gather cost 
+0.0
+
+
+gather win 
+0.0
+
+
+gather lose 
+0.0656755478571
+
+
+gather do 
+0.0
+
+
+gather rent 
+0.0
+
+
+gather need 
+0.0
+
+
+gather take 
+0.329824231617
+
+
+gather stand 
+0.112145537856
+
+
+gather end 
+0.0
+
+
+gather put 
+0.156021113244
+
+
+gather call 
+0.161296774236
+
+
+gather break 
+0.166233610799
+
+
+gather shine 
+0.0
+
+
+gather store 
+0.0
+
+
+gather begin 
+0.130623820179
+
+
+gather divide 
+0.212686378343
+
+
+gather come 
+0.106516372762
+
+
+gather fill 
+0.156292569155
+
+
+gather clean 
+0.0
+
+
+gather add 
+0.447060816216
+
+
+gather defeat 
+0.166870479998
+
+
+gather crack 
+0.215422005216
+
+
+gather decide 
+0.0
+
+
+gather split 
+0.212686378343
+
+
+gather start 
+0.0691960501147
+
+
+gather finish 
+0.174894296508
+
+
+gather gather 
+1.44269504089
+
+
+gather want 
+0.269232925401
+
+
+gather desire 
+0.0
+
+
+gather wish 
+0.0
+
+
+gather ask 
+0.344431607313
+
+
+gather contain 
+0.0
+
+
+gather include 
+0.226419161732
+
+
+want have 
+0.0815395222953
+
+
+want be 
+0.475059376605
+
+
+want buy 
+0.126433077381
+
+
+want give 
+0.0540325447868
+
+
+want pick 
+0.0778443693194
+
+
+want grow 
+0.0
+
+
+want spend 
+0.0
+
+
+want find 
+0.0
+
+
+want pay 
+0.0804309149863
+
+
+want plant 
+0.243760817448
+
+
+want go 
+0.0975652619821
+
+
+want play 
+0.0711070183281
+
+
+want get 
+0.11267091783
+
+
+want cut 
+0.264144328952
+
+
+want work 
+0.0839230077063
+
+
+want sell 
+0.183563929343
+
+
+want purchase 
+0.0
+
+
+want place 
+0.303632234393
+
+
+want miss 
+0.518412915067
+
+
+want make 
+0.0621805488042
+
+
+want catch 
+0.100020316614
+
+
+want hold 
+0.100992566387
+
+
+want serve 
+0.0790477303828
+
+
+want earn 
+0.0
+
+
+want borrow 
+0.0
+
+
+want save 
+0.121106435727
+
+
+want receive 
+0.0
+
+
+want leave 
+0.0
+
+
+want attend 
+0.0
+
+
+want see 
+0.0
+
+
+want stack 
+0.163149757709
+
+
+want eat 
+0.0
+
+
+want cost 
+0.40765965743
+
+
+want win 
+0.0
+
+
+want lose 
+0.120380614467
+
+
+want do 
+0.0
+
+
+want rent 
+0.104847990052
+
+
+want need 
+0.558110626551
+
+
+want take 
+0.106052203033
+
+
+want stand 
+0.296035687383
+
+
+want end 
+0.140008107168
+
+
+want put 
+0.303632234393
+
+
+want call 
+0.176232826124
+
+
+want break 
+0.0482476331802
+
+
+want shine 
+0.122205438671
+
+
+want store 
+0.0
+
+
+want begin 
+0.0908257122123
+
+
+want divide 
+0.118547476048
+
+
+want come 
+0.0820652609062
+
+
+want fill 
+0.0
+
+
+want clean 
+0.133937158636
+
+
+want add 
+0.0
+
+
+want defeat 
+0.0
+
+
+want crack 
+0.0
+
+
+want decide 
+0.0
+
+
+want split 
+0.156963816929
+
+
+want start 
+0.0684904873453
+
+
+want finish 
+0.0
+
+
+want gather 
+0.181415001274
+
+
+want want 
+1.44269504089
+
+
+want desire 
+1.44269504089
+
+
+want wish 
+1.26496514398
+
+
+want ask 
+0.32952581601
+
+
+want contain 
+0.108417843246
+
+
+want include 
+0.0
+
+
+desire have 
+0.0
+
+
+desire be 
+0.0
+
+
+desire buy 
+0.0
+
+
+desire give 
+0.049634093113
+
+
+desire pick 
+0.072403067108
+
+
+desire grow 
+0.0
+
+
+desire spend 
+0.0
+
+
+desire find 
+0.0
+
+
+desire pay 
+0.0
+
+
+desire plant 
+0.259985785531
+
+
+desire go 
+0.0
+
+
+desire play 
+0.0654582723145
+
+
+desire get 
+0.103723317875
+
+
+desire cut 
+0.279823362182
+
+
+desire work 
+0.0773003914244
+
+
+desire sell 
+0.0
+
+
+desire purchase 
+0.0
+
+
+desire place 
+0.317501153721
+
+
+desire miss 
+0.518412915067
+
+
+desire make 
+0.056925050293
+
+
+desire catch 
+0.0922385886723
+
+
+desire hold 
+0.0927047324164
+
+
+desire serve 
+0.0729019576903
+
+
+desire earn 
+0.0
+
+
+desire borrow 
+0.0
+
+
+desire save 
+0.111864884099
+
+
+desire receive 
+0.0
+
+
+desire leave 
+0.0
+
+
+desire attend 
+0.0
+
+
+desire see 
+0.0
+
+
+desire stack 
+0.161949537357
+
+
+desire eat 
+0.0
+
+
+desire cost 
+0.0
+
+
+desire win 
+0.0
+
+
+desire lose 
+0.113262433542
+
+
+desire do 
+0.0
+
+
+desire rent 
+0.0981353416828
+
+
+desire need 
+0.0
+
+
+desire take 
+0.097318605382
+
+
+desire stand 
+0.0742971642966
+
+
+desire end 
+0.0
+
+
+desire put 
+0.317501153721
+
+
+desire call 
+0.163452783103
+
+
+desire break 
+0.0446636195178
+
+
+desire shine 
+0.0
+
+
+desire store 
+0.0
+
+
+desire begin 
+0.0
+
+
+desire divide 
+0.108647380876
+
+
+desire come 
+0.0
+
+
+desire fill 
+0.0
+
+
+desire clean 
+0.128306784796
+
+
+desire add 
+0.0
+
+
+desire defeat 
+0.0
+
+
+desire crack 
+0.0
+
+
+desire decide 
+0.0
+
+
+desire split 
+0.156230265714
+
+
+desire start 
+0.0
+
+
+desire finish 
+0.0
+
+
+desire gather 
+0.0
+
+
+desire want 
+1.44269504089
+
+
+desire desire 
+1.44269504089
+
+
+desire wish 
+1.26496514398
+
+
+desire ask 
+0.31914103484
+
+
+desire contain 
+0.0
+
+
+desire include 
+0.0
+
+
+wish have 
+0.0
+
+
+wish be 
+0.0
+
+
+wish buy 
+0.0
+
+
+wish give 
+0.177272481815
+
+
+wish pick 
+0.187667687325
+
+
+wish grow 
+0.0
+
+
+wish spend 
+0.0
+
+
+wish find 
+0.0
+
+
+wish pay 
+0.0
+
+
+wish plant 
+0.203698908187
+
+
+wish go 
+0.293771186228
+
+
+wish play 
+0.0930658283128
+
+
+wish get 
+0.103693175617
+
+
+wish cut 
+0.219453631019
+
+
+wish work 
+0.116326213944
+
+
+wish sell 
+0.0
+
+
+wish purchase 
+0.0
+
+
+wish place 
+0.249460836924
+
+
+wish miss 
+0.464017047636
+
+
+wish make 
+0.0703448204218
+
+
+wish catch 
+0.092535665603
+
+
+wish hold 
+0.0938083391476
+
+
+wish serve 
+0.0735573268458
+
+
+wish earn 
+0.0
+
+
+wish borrow 
+0.0
+
+
+wish save 
+0.112758778841
+
+
+wish receive 
+0.205980068894
+
+
+wish leave 
+0.0
+
+
+wish attend 
+0.0
+
+
+wish see 
+0.0718518733441
+
+
+wish stack 
+0.145011108522
+
+
+wish eat 
+0.0
+
+
+wish cost 
+0.0
+
+
+wish win 
+0.0
+
+
+wish lose 
+0.110821016783
+
+
+wish do 
+0.0902744649019
+
+
+wish rent 
+0.317838523877
+
+
+wish need 
+0.0
+
+
+wish take 
+0.0977009348955
+
+
+wish stand 
+0.0748845446281
+
+
+wish end 
+0.0
+
+
+wish put 
+0.249460836924
+
+
+wish call 
+0.162186329786
+
+
+wish break 
+0.0451724947833
+
+
+wish shine 
+0.0
+
+
+wish store 
+0.0
+
+
+wish begin 
+0.0
+
+
+wish divide 
+0.108684720247
+
+
+wish come 
+0.419900039741
+
+
+wish fill 
+0.0
+
+
+wish clean 
+0.122163177705
+
+
+wish add 
+0.254418848784
+
+
+wish defeat 
+0.0
+
+
+wish crack 
+0.108547534496
+
+
+wish decide 
+0.0
+
+
+wish split 
+0.139835444849
+
+
+wish start 
+0.0
+
+
+wish finish 
+0.0
+
+
+wish gather 
+0.0
+
+
+wish want 
+1.26496514398
+
+
+wish desire 
+1.26496514398
+
+
+wish wish 
+1.44269504089
+
+
+wish ask 
+0.286769492535
+
+
+wish contain 
+0.0
+
+
+wish include 
+0.0
+
+
+ask have 
+0.113987653711
+
+
+ask be 
+0.140345835053
+
+
+ask buy 
+0.0
+
+
+ask give 
+0.126680142744
+
+
+ask pick 
+0.0929218034386
+
+
+ask grow 
+0.0
+
+
+ask spend 
+0.0
+
+
+ask find 
+0.0
+
+
+ask pay 
+0.241240911254
+
+
+ask plant 
+0.434933252981
+
+
+ask go 
+0.212747942351
+
+
+ask play 
+0.189228843002
+
+
+ask get 
+0.140988281303
+
+
+ask cut 
+0.480051759801
+
+
+ask work 
+0.102498042362
+
+
+ask sell 
+0.124300142966
+
+
+ask purchase 
+0.0
+
+
+ask place 
+0.572401070952
+
+
+ask miss 
+0.0
+
+
+ask make 
+0.0765249043296
+
+
+ask catch 
+0.123339744033
+
+
+ask hold 
+0.123542943415
+
+
+ask serve 
+0.0960305635575
+
+
+ask earn 
+0.0
+
+
+ask borrow 
+0.0
+
+
+ask save 
+0.146804452377
+
+
+ask receive 
+0.0
+
+
+ask leave 
+0.122814840364
+
+
+ask attend 
+0.0
+
+
+ask see 
+0.0717200368102
+
+
+ask stack 
+0.224009439837
+
+
+ask eat 
+0.0
+
+
+ask cost 
+0.35522431752
+
+
+ask win 
+0.0
+
+
+ask lose 
+0.149332923325
+
+
+ask do 
+0.0
+
+
+ask rent 
+0.127683085491
+
+
+ask need 
+0.51389834237
+
+
+ask take 
+0.4696660487
+
+
+ask stand 
+0.105800827644
+
+
+ask end 
+0.0
+
+
+ask put 
+0.572401070952
+
+
+ask call 
+0.253778874941
+
+
+ask break 
+0.102577431799
+
+
+ask shine 
+0.0
+
+
+ask store 
+0.0
+
+
+ask begin 
+0.128981197004
+
+
+ask divide 
+0.150174052892
+
+
+ask come 
+0.0
+
+
+ask fill 
+0.0
+
+
+ask clean 
+0.169889740533
+
+
+ask add 
+0.0
+
+
+ask defeat 
+0.0
+
+
+ask crack 
+0.076207547284
+
+
+ask decide 
+0.0
+
+
+ask split 
+0.214030272815
+
+
+ask start 
+0.0672074591669
+
+
+ask finish 
+0.17736681804
+
+
+ask gather 
+0.235111148728
+
+
+ask want 
+0.285304056729
+
+
+ask desire 
+0.258985363423
+
+
+ask wish 
+0.19117966169
+
+
+ask ask 
+1.44269504089
+
+
+ask contain 
+0.0
+
+
+ask include 
+0.111116419302
+
+
+contain have 
+0.0823306757112
+
+
+contain be 
+0.296473209339
+
+
+contain buy 
+0.116060032774
+
+
+contain give 
+0.0
+
+
+contain pick 
+0.0
+
+
+contain grow 
+0.0
+
+
+contain spend 
+0.0
+
+
+contain find 
+0.0
+
+
+contain pay 
+0.0801286767836
+
+
+contain plant 
+0.0
+
+
+contain go 
+0.0967207086271
+
+
+contain play 
+0.0
+
+
+contain get 
+0.0509990538288
+
+
+contain cut 
+0.0604896831203
+
+
+contain work 
+0.0648548698177
+
+
+contain sell 
+0.151360360436
+
+
+contain purchase 
+0.0
+
+
+contain place 
+0.0910533828615
+
+
+contain miss 
+0.0
+
+
+contain make 
+0.0528466353974
+
+
+contain catch 
+0.1942692711
+
+
+contain hold 
+0.207805837464
+
+
+contain serve 
+0.0
+
+
+contain earn 
+0.0
+
+
+contain borrow 
+0.0
+
+
+contain save 
+0.0
+
+
+contain receive 
+0.0
+
+
+contain leave 
+0.0
+
+
+contain attend 
+0.0
+
+
+contain see 
+0.0
+
+
+contain stack 
+0.0
+
+
+contain eat 
+0.0
+
+
+contain cost 
+0.253768911569
+
+
+contain win 
+0.0
+
+
+contain lose 
+0.0
+
+
+contain do 
+0.0
+
+
+contain rent 
+0.0
+
+
+contain need 
+0.16262676487
+
+
+contain take 
+0.137388512029
+
+
+contain stand 
+0.183516123989
+
+
+contain end 
+0.128663291693
+
+
+contain put 
+0.0
+
+
+contain call 
+0.0
+
+
+contain break 
+0.0
+
+
+contain shine 
+0.112140708299
+
+
+contain store 
+0.0
+
+
+contain begin 
+0.0899646010904
+
+
+contain divide 
+0.0
+
+
+contain come 
+0.0821514629499
+
+
+contain fill 
+0.0
+
+
+contain clean 
+0.0882532990387
+
+
+contain add 
+0.0
+
+
+contain defeat 
+0.0
+
+
+contain crack 
+0.0
+
+
+contain decide 
+0.0
+
+
+contain split 
+0.0
+
+
+contain start 
+0.0690023801964
+
+
+contain finish 
+0.0
+
+
+contain gather 
+0.0
+
+
+contain want 
+0.16262676487
+
+
+contain desire 
+0.0
+
+
+contain wish 
+0.0
+
+
+contain ask 
+0.0
+
+
+contain contain 
+1.44269504089
+
+
+contain include 
+1.2162779884
+
+
+include have 
+0.160313702319
+
+
+include be 
+0.0935780338602
+
+
+include buy 
+0.137981735821
+
+
+include give 
+0.0991085736376
+
+
+include pick 
+0.0
+
+
+include grow 
+0.364997229184
+
+
+include spend 
+0.0
+
+
+include find 
+0.13286229173
+
+
+include pay 
+0.160489189062
+
+
+include plant 
+0.0
+
+
+include go 
+0.16572971296
+
+
+include play 
+0.147302827587
+
+
+include get 
+0.18503191438
+
+
+include cut 
+0.0777502385696
+
+
+include work 
+0.0722567372831
+
+
+include sell 
+0.10696053652
+
+
+include purchase 
+0.0
+
+
+include place 
+0.220222078952
+
+
+include miss 
+0.0
+
+
+include make 
+0.0940637373346
+
+
+include catch 
+0.0790376894627
+
+
+include hold 
+0.19968480781
+
+
+include serve 
+0.0
+
+
+include earn 
+0.0
+
+
+include borrow 
+0.0
+
+
+include save 
+0.0
+
+
+include receive 
+0.179188077853
+
+
+include leave 
+0.0828767521789
+
+
+include attend 
+0.0
+
+
+include see 
+0.239484415143
+
+
+include stack 
+0.0
+
+
+include eat 
+0.0
+
+
+include cost 
+0.0
+
+
+include win 
+0.0
+
+
+include lose 
+0.0672051767103
+
+
+include do 
+0.0
+
+
+include rent 
+0.0
+
+
+include need 
+0.0
+
+
+include take 
+0.203521013731
+
+
+include stand 
+0.220305395574
+
+
+include end 
+0.0
+
+
+include put 
+0.120789067654
+
+
+include call 
+0.124491070517
+
+
+include break 
+0.171383333304
+
+
+include shine 
+0.0
+
+
+include store 
+0.0
+
+
+include begin 
+0.10428084361
+
+
+include divide 
+0.21867558148
+
+
+include come 
+0.109712686469
+
+
+include fill 
+0.160836366863
+
+
+include clean 
+0.0
+
+
+include add 
+0.645879396688
+
+
+include defeat 
+0.258586837059
+
+
+include crack 
+0.221568494782
+
+
+include decide 
+0.0
+
+
+include split 
+0.21867558148
+
+
+include start 
+0.0625191517933
+
+
+include finish 
+0.138019110029
+
+
+include gather 
+0.226419161732
+
+
+include want 
+0.0
+
+
+include desire 
+0.0
+
+
+include wish 
+0.0
+
+
+include ask 
+0.194498215935
+
+
+include contain 
+1.2162779884
+
+
+include include 
+1.44269504089
+
+

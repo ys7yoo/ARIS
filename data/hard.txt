@@ -1,0 +1,32 @@
+Molly owns the Wafting Pie Company. This morning, her employees used 816 eggs to bake pumpkin pies. If her employees used a total of 1,339 eggs today, how many eggs did they use in the afternoon?
+Each of farmer Cunningham's 6,048 lambs is either black or white. There are 193 white ones. How many of Farmer Cunningham's lambs are black?
+
+different classification for a single verb:
+Joan's cat had 8 kittens. She gave 2 to her friends.  How many kittens does she have now ?
+
+error in fractional number handling. Even if 0.75 or 75 is added
+Oscar 's bus ride to school is 3/4 of a mile and Charlie 's bus ride is 1/4 of a mile . How much longer is Oscar's bus ride than Charlie's?
+
+Oscar 's bus ride to school is 75 mile and Charlie 's bus ride is 25 mile .
+[poss(ride-4, Oscar-1), nn(ride-4, bus-3), prep_to(ride-4, school-6), conj_and(mile-9, mile-17), nsubj(mile-9, ride-4), cop(mile-9, is-7), num(mile-9, 75-8), poss(ride-14, Charlie-11), nn(ride-14, bus-13), num(mile-17, 25-16), nsubj(mile-17, ride-14), cop(mile-17, is-15)]
+
+
+Darnel sprinted 7 lap and then took a break by jogging 6 lap .
+[nsubj(sprinted-2, Darnel-1), dobj(sprinted-2, lap-4), conj_and(sprinted-2, took-7), num(lap-4, 7-3), nsubj(took-7, Darnel-1), advmod(took-7, then-6), dobj(took-7, break-9), prep_by(took-7, lap-13), det(break-9, a-8), nn(lap-13, jogging-11), num(lap-13, 6-12)]
+
+A marine biologist measured one fish that was 3/10 of a foot long and a second fish that was 2/10 of a foot long. How much longer was the first fish?
+
+Nicole found an orange caterpillar and a green caterpillar in her backyard. The green caterpillar was 3 inches long and the orange caterpillar was 1 1/6 inches long. How much longer was the green caterpillar than the orange caterpillar?
+
+detecting actions between two observations/states:
+A farmer started the day with 8 3/4 buckets of seeds. After spending the morning sowing seeds, she now has 6 buckets left. How many buckets of seeds did the farmer sow?
+
+Before the recent housing boom, there were 1,426 houses in Lawrence County. Now, there are 2,000 houses. How many houses did developers build during the housing boom?
+
+3/10. One.
+A marine biologist measured one fish that was 3/10 of a foot long and a second fish that was 2/10 of a foot long. How much longer was the first fish?
+
+
+Changes:
+Walnut Tree, Oak Tree: short, small.... 6 q in irrelevant.
+Pokeman card --> card

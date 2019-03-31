@@ -1,0 +1,28 @@
+Tori was 4.4 feet tall .
+
+Joan joined her school's band. She bought a trumpet for $149.16, a music stand for $9.98, and a song book which was $4.14. Joan found $8.65 in her pocket. How much did Joan spend at the music store?
+
+How many maple trees will the park have when the workers are finished ?
+[det(workers-11, the-10), nsubjpass(finished-13, workers-11), auxpass(finished-13, are-12), advmod(finished-13, when-9), det(park-7, the-6), advcl(have-8, finished-13), nsubj(have-8, park-7), aux(have-8, will-5), dobj(have-8, maple-3), dep(maple-3, trees-4), amod(maple-3, many-2), advmod(many-2, How-1)]
+Maple is not amod! It is a dep
+
+Park workers will plant 37 rose bushes today and 25 rose bushes tomorrow .
+[rcmod(37-5, rose-6), dobj(rose-6, bushes-7), tmod(rose-6, today-8), dobj(plant-4, 37-5), aux(plant-4, will-3), conj_and(plant-4, rose-11), nsubj(plant-4, workers-2), nsubj(rose-11, 25-10), tmod(rose-11, tomorrow-13), dobj(rose-11, bushes-12), nn(workers-2, Park-1)]
+num relationship!
+
+There are 47 rose bushes currently in the park .
+[expl(are-2, There-1), nsubj(are-2, 47-3), rcmod(47-3, rose-4), dobj(rose-4, bushes-5), advmod(rose-4, currently-6), prep_in(rose-4, park-9), det(park-9, the-8)]
+Parser thinks rose is "rise"...
+
+How many red orchids did Sally cut ?
+[nsubj(cut-7, Sally-6), aux(cut-7, did-5), dobj(cut-7, red-3), advmod(many-2, How-1), amod(red-3, many-2), dep(red-3, orchids-4)]
+
+maple is nn and amod!!!
+There are 2 maple trees and 5 popular trees currently in the park. Park workers will plant 9 more maple trees today. How many maple trees will the park have when the workers are finished ?
+
+There are 22 orchid bushes and 40 pine trees currently in the park .
+[expl(are-2, There-1), nsubj(are-2, bushes-5), nsubj(are-2, 40-7), number(orchid-4, 22-3), amod(bushes-5, orchid-4), conj_and(bushes-5, 40-7), prep_in(bushes-5, park-13), dep(40-7, pine-8), dobj(pine-8, trees-9), advmod(pine-8, currently-10), det(park-13, the-12)]
+
+Sandy grew eleven watermelons .
+
+[nn(watermelons-4, eleven-3), dobj(grew-2, watermelons-4), nsubj(grew-2, Sandy-1)]
